@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humans, Computers, and Cognition</title>
+    <link>http://ub-idia640-2016.github.io/</link>
+    <description>Recent content on Humans, Computers, and Cognition</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://ub-idia640-2016.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Course Description</title>
+      <link>http://ub-idia640-2016.github.io/course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ub-idia640-2016.github.io/course/</guid>
+      <description>&lt;p&gt;Testing content.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Course Objectives</title>
+      <link>http://ub-idia640-2016.github.io/objectives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ub-idia640-2016.github.io/objectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participation</title>
+      <link>http://ub-idia640-2016.github.io/participation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ub-idia640-2016.github.io/participation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://ub-idia640-2016.github.io/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ub-idia640-2016.github.io/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readings</title>
+      <link>http://ub-idia640-2016.github.io/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ub-idia640-2016.github.io/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Requirements</title>
+      <link>http://ub-idia640-2016.github.io/requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ub-idia640-2016.github.io/requirements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>http://ub-idia640-2016.github.io/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ub-idia640-2016.github.io/syllabus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github assignment</title>
+      <link>http://ub-idia640-2016.github.io/github-assignment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ub-idia640-2016.github.io/github-assignment/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
