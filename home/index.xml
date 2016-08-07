@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fall 2016</title>
-    <link>https://ub-hcc2016.github.io/</link>
-    <description>Recent content on Fall 2016</description>
+    <title>Homes on Fall 2016</title>
+    <link>https://ub-hcc2016.github.io/home/</link>
+    <description>Recent content in Homes on Fall 2016</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Lisa D. Harper</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ub-hcc2016.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://ub-hcc2016.github.io/post/welcome/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
-      
-      <guid>https://ub-hcc2016.github.io/post/welcome/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ub-hcc2016.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>about</title>
@@ -34,36 +25,6 @@
 &lt;h2 id=&#34;course-requirements&#34;&gt;Course Requirements&lt;/h2&gt;
 
 &lt;h2 id=&#34;course-objectives&#34;&gt;Course Objectives&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://ub-hcc2016.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://ub-hcc2016.github.io/publication/person-re-identification/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://ub-hcc2016.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://ub-hcc2016.github.io/publication/clothing-search/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Github Basics</title>
-      <link>https://ub-hcc2016.github.io/project/github-basics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://ub-hcc2016.github.io/project/github-basics/</guid>
-      <description>&lt;p&gt;How to get started.&lt;/p&gt;
 </description>
     </item>
     
