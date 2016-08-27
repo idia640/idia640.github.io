@@ -1,3 +1,11 @@
-# This repository contains the [course website](https://ub-idia640-2016.github.io).
+# Why is this course on GitHub?
 
-If you spot errors or issues, please feel free to creat a pull request.
+This site and course is hosted by GitHub classroom which:
+
+- provides private repositories for students,
+- provides shared repositories for groups of students, and
+- enables the instructor to share course materials in a public setting.
+
+More importantly, enrolled students ultimately need to learn to work comfortably in  collaborative, distributed revision control systems (such as GitHub). This is because they will be expected to do so as members of development teams in their work. While this course has no group projects,  assignments are explicitly designed to encourage sharing and collaboration.
+
+Ordinarily, GitHub might be considered to complex for design students to learn within a single class session. But because GitHub is web-based, it supports a high level of accessibility -- such that non-coders can work entirely within the browser, if desired. It also provides many of the collaborative tools needed in order to support topical conversation and collaboration between students.

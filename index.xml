@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fall 2016</title>
+    <title>IDIA 640</title>
     <link>https://ub-idia640-2016.github.io/</link>
-    <description>Recent content on Fall 2016</description>
+    <description>Recent content on IDIA 640</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Lisa D. Harper</copyright>
@@ -51,9 +51,9 @@
 
 &lt;p&gt;We will question these basic beliefs and show how they sometimes get us into trouble in communications design &amp;ndash; and also how we can use them to advantage.&lt;/p&gt;
 
-&lt;h2 id=&#34;course-requirements&#34;&gt;Course Requirements&lt;/h2&gt;
+&lt;h1 id=&#34;course-requirements&#34;&gt;Course Requirements&lt;/h1&gt;
 
-&lt;p&gt;&lt;strong&gt;Weekly reading and writing assignments:&lt;/strong&gt; Each week will include one or more readings of a topical nature. Students are expected to compose a short, weekly summary on that topic. The first part summarizes key learning points, while the second provides demonstrative, positive or negative examplars (with screen shots and explanation), drawn from actual media, websites, or applications. 45% (5 points each, 1 point deducted for each day late)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Weekly reading and writing assignments:&lt;/strong&gt; Each week will include one or more readings of a topical nature. Students are expected to compose a short, weekly review on that topic. The first part summarizes key learning points, while the second provides demonstrative, positive or negative examplars (with screen shots and explanation), drawn from actual media, websites, or applications. 45% (5 points each, 1 point deducted for each day late)&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Critical Review:&lt;/strong&gt; Each student will write a short, critical review of a scientific article. A list of articles to choose from will be provided. This same article and review are to be presented in class later in the semester.  Guidelines and rubric will be provided. (10 points. 1 point deducted for each day late)&lt;/p&gt;
 
@@ -63,7 +63,7 @@
 
 &lt;p&gt;&lt;strong&gt;Project:&lt;/strong&gt; Each student is required to complete a course project and present that project to peers at the end of course. The project will focus on persuasive design. (30 points)&lt;/p&gt;
 
-&lt;h2 id=&#34;course-objectives&#34;&gt;Course Objectives&lt;/h2&gt;
+&lt;h1 id=&#34;course-objectives&#34;&gt;Course Objectives&lt;/h1&gt;
 
 &lt;p&gt;Students will be able to:&lt;/p&gt;
 
@@ -97,13 +97,51 @@
     </item>
     
     <item>
+      <title>Default Presentation</title>
+      <link>https://ub-idia640-2016.github.io/presentations/slide-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ub-idia640-2016.github.io/presentations/slide-test/</guid>
+      <description>
+
+&lt;h1 id=&#34;my-awesome-presentation&#34;&gt;My Awesome Presentation&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;agenda&#34;&gt;Agenda&lt;/h1&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Deep-dive&lt;/li&gt;
+&lt;li&gt;&amp;hellip;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;[NOTE]: Note that you need active internet connection to access remark.js script file&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Hello world!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Github Basics</title>
       <link>https://ub-idia640-2016.github.io/project/github-basics/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ub-idia640-2016.github.io/project/github-basics/</guid>
-      <description>&lt;p&gt;How to get started.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Statement</title>
+      <link>https://ub-idia640-2016.github.io/project/problem-statement/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ub-idia640-2016.github.io/project/problem-statement/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -119,7 +157,6 @@
 &lt;th&gt;Topic&lt;/th&gt;
 &lt;th&gt;Readings&lt;/th&gt;
 &lt;th&gt;Assignments Due&lt;/th&gt;
-&lt;th&gt;Student Presentions&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 
@@ -129,101 +166,88 @@
 &lt;td&gt;Introduction, Getting started with GitHub&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;7 Sept&lt;/td&gt;
 &lt;td&gt;Overview of HCI research methods&lt;/td&gt;
-&lt;td&gt;Purchase 1-4&lt;/td&gt;
-&lt;td&gt;Github assignment, Design Statement&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Github assignment, Design Problem&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;14 Sept&lt;/td&gt;
-&lt;td&gt;No Class&lt;/td&gt;
-&lt;td&gt;Papers TBD&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Choose papers for student presentations&lt;/td&gt;
 &lt;td&gt;Critical review&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;21 Sept&lt;/td&gt;
 &lt;td&gt;How do we know what we see? Sense &amp;amp; perception&lt;/td&gt;
 &lt;td&gt;Ware Ch. 1-5&lt;/td&gt;
-&lt;td&gt;Assignment 1&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Weekly&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;28 Sept&lt;/td&gt;
 &lt;td&gt;How do we know about things? (Memory, priming, and learning)&lt;/td&gt;
 &lt;td&gt;Ware Ch. 6-9&lt;/td&gt;
-&lt;td&gt;Assignment 2&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Weekly&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;5 Oct&lt;/td&gt;
 &lt;td&gt;How we do think? (Attention and the divided brain)&lt;/td&gt;
 &lt;td&gt;Kahneman Ch. 1-9&lt;/td&gt;
-&lt;td&gt;Assignment 3&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Weekly&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;12 Oct&lt;/td&gt;
 &lt;td&gt;How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)&lt;/td&gt;
 &lt;td&gt;Damasio, Nadal &amp;amp; Skov&lt;/td&gt;
-&lt;td&gt;Assignment 4&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Weekly&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;19 Oct&lt;/td&gt;
 &lt;td&gt;How do we understand? (Communication as joint action)&lt;/td&gt;
 &lt;td&gt;Clark, Goffman&lt;/td&gt;
-&lt;td&gt;Assignment 5&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Weekly&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;26 Oct&lt;/td&gt;
 &lt;td&gt;How do people make decisions when they are uncertain? (Heuristics and biases)&lt;/td&gt;
 &lt;td&gt;Kahneman Ch. 10-14&lt;/td&gt;
-&lt;td&gt;Assignment 6&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Weekly&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;2 Nov&lt;/td&gt;
 &lt;td&gt;Why is framing choice so important? (Rationality &amp;amp; decision-making)&lt;/td&gt;
 &lt;td&gt;Kahneman Ch. 25-34, Thaler and Sunstein&lt;/td&gt;
-&lt;td&gt;Assignment 7&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Weekly&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;9 Nov&lt;/td&gt;
 &lt;td&gt;How are people influenced through persuasion?&lt;/td&gt;
 &lt;td&gt;Jucker, Cialdini, Fogg or Oinas-Kukkonen &amp;amp; Harjumaa&lt;/td&gt;
-&lt;td&gt;Assignment 8&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Weekly&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;16 Nov&lt;/td&gt;
 &lt;td&gt;How does culture affect thinking?&lt;/td&gt;
 &lt;td&gt;Hall, Hofstede&lt;/td&gt;
-&lt;td&gt;Assignment 9&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Weekly&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
 &lt;td&gt;23 Nov&lt;/td&gt;
 &lt;td&gt;Thanksgiving - No Class&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -232,8 +256,7 @@
 &lt;td&gt;30 Nov&lt;/td&gt;
 &lt;td&gt;How do social networks affect behavior?&lt;/td&gt;
 &lt;td&gt;Christakis &amp;amp; Fowler, Hodas &amp;amp; Lerman&lt;/td&gt;
-&lt;td&gt;Assignment 10&lt;/td&gt;
-&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;Weekly&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;
@@ -241,7 +264,6 @@
 &lt;td&gt;Student Presentations&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;Presentations&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -258,22 +280,21 @@
 
 &lt;h1 id=&#34;required-texts&#34;&gt;Required Texts&lt;/h1&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Kahnemann, D. (2011). Thinking, Fast and Slow. Farrah, Straus and Giroux.&lt;/li&gt;
-&lt;li&gt;Purchase, H. (2012). Experimental Human Computer Interaction. Cambridge.&lt;/li&gt;
-&lt;li&gt;Ware, C. (2008) Visual Thinking for Design. Elsevier.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Kahnemann, D. (2011). Thinking, Fast and Slow. Farrah, Straus and Giroux.&lt;/p&gt;
 
-&lt;h1 id=&#34;optional-reading&#34;&gt;Optional Reading&lt;/h1&gt;
+&lt;p&gt;Ware, C. (2008) Visual Thinking for Design. Elsevier.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Cialdini, R. B. (2003). Influence: The Psychology of Persuasion. Harper-Collins.&lt;/li&gt;
-&lt;li&gt;Fogg, BJ. (2002). Persuasive Technology: Using Computers to Change What We Think and Do. Morgan Kaufmann.&lt;/li&gt;
-&lt;li&gt;Johnson, J. (2013). Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines. Elsevier.&lt;/li&gt;
-&lt;li&gt;Weinschenk, S. (2011). 100 Things Every Designer Needs to Know about People. Pearson Education.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h1 id=&#34;related-reading&#34;&gt;Related Reading&lt;/h1&gt;
 
-&lt;p&gt;Other assigned or referenced texts available &lt;a href=&#34;pages/other-readings/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cialdini, R. B. (2003). Influence: The Psychology of Persuasion. Harper-Collins.&lt;/p&gt;
+
+&lt;p&gt;Fogg, BJ. (2002). Persuasive Technology: Using Computers to Change What We Think and Do. Morgan Kaufmann.&lt;/p&gt;
+
+&lt;p&gt;Johnson, J. (2013). Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines. Elsevier.&lt;/p&gt;
+
+&lt;p&gt;Purchase, H. (2012). Experimental Human Computer Interaction. Cambridge.&lt;/p&gt;
+
+&lt;p&gt;Weinschenk, S. (2011). 100 Things Every Designer Needs to Know about People. Pearson Education.&lt;/p&gt;
 </description>
     </item>
     

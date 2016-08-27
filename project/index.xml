@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Fall 2016</title>
+    <title>Projects on IDIA 640</title>
     <link>https://ub-idia640-2016.github.io/project/</link>
-    <description>Recent content in Projects on Fall 2016</description>
+    <description>Recent content in Projects on IDIA 640</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Lisa D. Harper</copyright>
@@ -16,8 +16,16 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ub-idia640-2016.github.io/project/github-basics/</guid>
-      <description>&lt;p&gt;How to get started.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Problem Statement</title>
+      <link>https://ub-idia640-2016.github.io/project/problem-statement/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ub-idia640-2016.github.io/project/problem-statement/</guid>
+      <description></description>
     </item>
     
   </channel>
