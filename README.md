@@ -1,6 +1,6 @@
 # Why is this course on GitHub?
 
-This site and course is hosted by GitHub classroom which:
+This [website](https://ub-idia640-2016.github.io) and course is hosted by GitHub classroom which:
 
 - provides private repositories for students,
 - provides shared repositories for groups of students, and
