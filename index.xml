@@ -7,16 +7,96 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Lisa D. Harper</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Sep 2016 10:15:13 -0400</lastBuildDate>
     <atom:link href="https://ub-idia640-2016.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Welcome</title>
+      <title>GitHub&#39;s invisible design</title>
+      <link>https://ub-idia640-2016.github.io/post/github-invisible-design/</link>
+      <pubDate>Sun, 04 Sep 2016 10:15:13 -0400</pubDate>
+      
+      <guid>https://ub-idia640-2016.github.io/post/github-invisible-design/</guid>
+      <description>&lt;p&gt;In the first week, I gave you a silly exercise centered on learning the basics of GitHub. Your goal was to create a markdown document on the topic of making toast, commit it to your repository, and inform me when that document was complete.&lt;/p&gt;
+
+&lt;p&gt;You are no doubt left with the question &amp;ldquo;why toast?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;As a teaser to the answer to this question, check out the following video from Tom Wujec.&lt;/p&gt;
+
+&lt;iframe src=&#34;https://embed-ssl.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast.html&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Based on what you may know about GitHub, can you see some parallels?&lt;/p&gt;
+
+&lt;p&gt;Wujec makes the really interesting point that people intuitively know how to break down complex things into simple things. When you give people affordances that allow them to iterate more easily, they perform this task more easily.&lt;/p&gt;
+
+&lt;p&gt;Equally interesting is what happens in a group. Collaboration appears chaotic in the early stages, but stabilizes later. And in the process, many points-of-view are incorporated - even parallel and contradictory processes.&lt;/p&gt;
+
+&lt;p&gt;This is exactly what happens when groups collaborate in GitHub. It is designed for this. The difference is that the structure is only partly visible &amp;ndash; as a beginner, you may see processes exposed through browser-based interactions, but likely you struggle with understanding task structure under-the-hood. I know I did! Regardless, you are just making toast:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Start with an idea about a problem to solve&lt;/li&gt;
+&lt;li&gt;Create nodes (commits on branches)&lt;/li&gt;
+&lt;li&gt;Refine &amp;amp; refine &amp;amp; refine&lt;/li&gt;
+&lt;li&gt;Gain clarity as a group and solve the problem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I find visual guides useful, when trying to see underlying structure. Check out &lt;a href=&#34;https://changelog.com/git-resources-for-visual-learners/&#34;&gt;these resources for visual learners&lt;/a&gt;. A couple of the demos are really useful for demonstrating visually what happens when you issue a command.&lt;/p&gt;
+
+&lt;p&gt;For a quick read, check out this simple introduction &lt;a href=&#34;https://medium.com/@dfosco/git-for-designers-856c434716e#.p6q05e1mr&#34;&gt;Git for Designers&lt;/a&gt; on medium. While you are more likely to see GitHub projects geared around code, here a couple of resources geared specifically for journalists and designers.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://knightlab.northwestern.edu/2013/06/13/getting-github-why-journalists-should-know-and-use-the-social-coding-site/&#34;&gt;Why journalists should know and use GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://venturebeat.com/2014/06/05/for-designers-version-control-is-a-big-problem-but-github-is-close-to-solving-it/&#34;&gt;GitHub for designers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Week one slide links</title>
+      <link>https://ub-idia640-2016.github.io/post/week-one-slide-links/</link>
+      <pubDate>Sat, 03 Sep 2016 10:49:03 -0400</pubDate>
+      
+      <guid>https://ub-idia640-2016.github.io/post/week-one-slide-links/</guid>
+      <description>&lt;p&gt;All of these links are available from the &lt;a href=&#34;https://github.com/ub-idia640-2016/slides&#34;&gt;slides directory on GitHub&lt;/a&gt;, but for convenience sake, I&amp;rsquo;ll post them weekly to the class blog, as well.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://darkpatterns.org&#34;&gt;Darkpatterns.org&lt;/a&gt; - Consider differences between coercion, manipulation, and persuasion&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/MA1hD3XRlh0&#34;&gt;Star Trek video&lt;/a&gt; - Is this a &amp;ldquo;naturalistic &amp;rdquo; interaction?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/IBbzNp25OHo&#34;&gt;Jiff ad&lt;/a&gt; - &amp;ldquo;Choosy mothers choose jif&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://youtu.be/nlT8VcWz3LY&#34;&gt;Febreze ad&lt;/a&gt; - Why would someone want to buy this product?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nudges.org&#34;&gt;Nudge&lt;/a&gt; blog - A blog about nudging behavior from Richard Thaler and Cass Sunstein&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?_r=1&#34;&gt;NYT article &amp;ldquo;How companies learn your secrets&amp;rdquo;&lt;/a&gt; - mentions the story of P&amp;amp;G Febreze. Have advertisers changed tactics for persuasion / manipulation over the years?&lt;/li&gt;
+&lt;li&gt;Microsoft &lt;a href=&#34;http://academic.research.microsoft.com/RankList?entitytype=3&amp;amp;topDomainID=2&amp;amp;subDomainID=12&#34;&gt;top HCI conferences&lt;/a&gt; list - Conferences relating to topics in this course.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.xkcd.com&#34;&gt;xkcd&lt;/a&gt; - A webcomic of romance, sarcasm, math, and language.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://imgs.xkcd.com/comics/academia_vs_business.png&#34; alt=&#34;http://imgs.xkcd.com/comics/academia_vs_business.png&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What is this class about?</title>
       <link>https://ub-idia640-2016.github.io/post/welcome/</link>
-      <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 31 Aug 2016 12:00:00 +0000</pubDate>
       
       <guid>https://ub-idia640-2016.github.io/post/welcome/</guid>
-      <description></description>
+      <description>&lt;p&gt;The graphic below, depicts the conceptual scaffold for this course. During the semester, we will link core cognitive and neurobiological processes that give you a palette of practical levers for use in information and interaction design.&lt;/p&gt;
+
+&lt;p&gt;&lt;center&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../img/persuasion-model1.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Decision Model&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/center&gt;&lt;/p&gt;
+
+&lt;p&gt;Accordingly, you will learn how to influence user decision-making processes in addition to learning how such processes may be adapted to fit cognitive needs of specific user populations. I hope that you will also recognize the use of such levers when you are the user, as well.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -178,7 +258,7 @@
 &lt;tr&gt;
 &lt;td&gt;14 Sept&lt;/td&gt;
 &lt;td&gt;TBD&lt;/td&gt;
-&lt;td&gt;Choose papers for student presentations&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;td&gt;Critical review&lt;/td&gt;
 &lt;/tr&gt;
 
@@ -295,6 +375,10 @@
 &lt;p&gt;Gliner, J. A., Morgan, G. A., &amp;amp; Leech, N. L. (2011). Research Methods in Applied Settings: An Integrated Approach to Design and Analysis. Routledge.&lt;/p&gt;
 
 &lt;p&gt;Purchase, H. (2012). Experimental Human Computer Interaction. Cambridge.&lt;/p&gt;
+
+&lt;p&gt;Thaler,R. &amp;amp; Sunstein, C. (2009). Nudge: Improving Decisions About Health, Wealth, and Happiness. Penguin Books.&lt;/p&gt;
+
+&lt;p&gt;Sedivy, J., &amp;amp; Carlson, G. (2011). Sold on Language: How Advertisers Talk to You and What This Says about You.&lt;/p&gt;
 
 &lt;p&gt;Weinschenk, S. (2011). 100 Things Every Designer Needs to Know about People. Pearson Education.&lt;/p&gt;
 </description>
