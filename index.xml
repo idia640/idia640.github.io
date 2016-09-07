@@ -7,8 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Lisa D. Harper</copyright>
-    <lastBuildDate>Sun, 04 Sep 2016 10:15:13 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 08 Sep 2016 10:49:03 -0400</lastBuildDate>
     <atom:link href="https://ub-idia640-2016.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Week two slide links</title>
+      <link>https://ub-idia640-2016.github.io/post/week-two-slide-links/</link>
+      <pubDate>Thu, 08 Sep 2016 10:49:03 -0400</pubDate>
+      
+      <guid>https://ub-idia640-2016.github.io/post/week-two-slide-links/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GitHub&#39;s invisible design</title>
@@ -230,7 +239,7 @@
 
 &lt;tr&gt;
 &lt;td&gt;7 Sept&lt;/td&gt;
-&lt;td&gt;HCI research methodologies: Controlled experimentation&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ub-idia640-2016.github.io/slides/week02.html&#34;&gt;HCI research methodologies: Experiments&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://drive.google.com/folderview?id=0B3SsgcqV1xSST2x1ZjF0a0R6WU0&amp;amp;usp=sharing&#34;&gt;Handout&lt;/a&gt; (restricted access)&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/ub-idia640-2016/course-materials/blob/master/github-basics.md&#34;&gt;Github assignment&lt;/a&gt;, &lt;a href=&#34;https://github.com/ub-idia640-2016/course-materials/blob/master/problem-statement.md&#34;&gt;Design Problem&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
