@@ -7,16 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Lisa D. Harper</copyright>
-    <lastBuildDate>Thu, 08 Sep 2016 10:49:03 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 10 Sep 2016 10:49:03 -0400</lastBuildDate>
     <atom:link href="https://ub-idia640-2016.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Paradigm shift?</title>
+      <link>https://ub-idia640-2016.github.io/post/paradigm-shift/</link>
+      <pubDate>Sat, 10 Sep 2016 10:49:03 -0400</pubDate>
+      
+      <guid>https://ub-idia640-2016.github.io/post/paradigm-shift/</guid>
+      <description>&lt;p&gt;In our second week, we talked a bit about the nature of scientists and science. In this vein, how does one recognize a Paradigm shift? Perhaps, hindsight is the only test, but in a graceful redirection, Luca Turin says, &amp;ldquo;&lt;em&gt;You see, when you’re a scientist, you’re always selling ideas. And people are very resistant to ideas, and rightly so. Why should new ideas be accepted?&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;iframe src=&#34;https://embed-ssl.ted.com/talks/luca_turin_on_the_science_of_scent.html&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Take a look at this talk about how smell works, and the power of industry in shaping scientific discourse.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Week two slide links</title>
       <link>https://ub-idia640-2016.github.io/post/week-two-slide-links/</link>
-      <pubDate>Thu, 08 Sep 2016 10:49:03 -0400</pubDate>
+      <pubDate>Sat, 10 Sep 2016 10:49:03 -0400</pubDate>
       
       <guid>https://ub-idia640-2016.github.io/post/week-two-slide-links/</guid>
-      <description></description>
+      <description>&lt;ul&gt;
+&lt;li&gt;Ben Goldacre &amp;ldquo;&lt;a href=&#34;http://www.ted.com/talks/ben_goldacre_battling_bad_science?utm_source=tedcomshare&amp;amp;utm_medium=referral&amp;amp;utm_campaign=tedspread&#34;&gt;Battling bad science&lt;/a&gt;&amp;rdquo; TED talk&lt;/li&gt;
+&lt;li&gt;What is bad science reporting? - &lt;a href=&#34;http://www.chronicle.com/blogs/linguafranca/2012/03/15/bad-science-reporting-effect/&#34;&gt;&amp;ldquo;Qwerty effect&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Opaque writing&amp;hellip; should it be this hard to understand? - &lt;a href=&#34;http://www.psychologicalscience.org/index.php/convention/the-curse-of-knowledge-pinker-describes-a-key-cause-of-bad-writing.html&#34;&gt;Stephen Pinker&amp;rsquo;s opinion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Social science growing pains - &lt;a href=&#34;http://arstechnica.com/science/2016/03/social-science-reproducibility-not-great-but-not-as-bad-as-reported/&#34;&gt;reproducible results&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Journalistic error&amp;hellip; sure sounds &amp;ldquo;scientific!&amp;rdquo; - &lt;a href=&#34;https://www.bostonglobe.com/news/politics/2015/10/20/donald-trump-and-ben-carson-speak-grade-school-level-that-today-voters-can-quickly-grasp/LUCBY6uwQAxiLvvXbVTSUN/story.html&#34;&gt;Bad use of Flesch-Kincaid&lt;/a&gt;&amp;hellip;and &lt;a href=&#34;http://languagelog.ldc.upenn.edu/nll/?p=21847&#34;&gt;good explanation of why it is bad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The influential power of science writers - &lt;a href=&#34;http://www.slate.com/articles/health_and_science/science/2013/10/malcolm_gladwell_critique_david_and_goliath_misrepresents_the_science.html&#34;&gt;Malcolm Gladwell&lt;/a&gt; example.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Not mentioned, but a &lt;a href=&#34;http://news.mit.edu/2015/how-three-mit-students-fooled-scientific-journals-0414&#34;&gt;great story of how three MIT students fooled the world of scientific journals&lt;/a&gt; by creating software that randomly generated, nonsense papers, one of which was subsequently published in conference with &amp;ldquo;loose standards&amp;rdquo;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -246,7 +270,7 @@
 
 &lt;tr&gt;
 &lt;td&gt;14 Sept&lt;/td&gt;
-&lt;td&gt;HCI research methodologies: Ethnographic, survey&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://ub-idia640-2016.github.io/slides/week03.html&#34;&gt;HCI research methodologies: Ethnography, survey&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;https://github.com/ub-idia640-2016/course-materials/blob/master/articles-critical-review.md&#34;&gt;Selected articles&lt;/a&gt;, &lt;a href=&#34;https://drive.google.com/open?id=0B3SsgcqV1xSSdmc4TVB6ZjFOcjA&#34;&gt;Duranti&lt;/a&gt;, &lt;a href=&#34;https://drive.google.com/open?id=0B3SsgcqV1xSSUmM0Y1phQjVQTWM&#34;&gt;Glasow&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;Critical review (&lt;a href=&#34;https://github.com/ub-idia640-2016/course-materials/blob/master/guidelines-short-paper.md&#34;&gt;paper&lt;/a&gt;, &lt;a href=&#34;https://github.com/ub-idia640-2016/course-materials/blob/master/presentation-critical-review.md&#34;&gt;discussion&lt;/a&gt;)&lt;/td&gt;
 &lt;/tr&gt;
