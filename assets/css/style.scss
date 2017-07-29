@@ -1,0 +1,7 @@
+---
+---
+@import "_variables";  /* borrowed from Poole theme */
+@import "{{ site.theme }}";
+@import "_base";        /* customizations for this site */
+@import "_pagination";  /* borrowed from Poole theme */
+@import "_code";        /* borrowed from Poole theme */

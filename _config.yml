@@ -1,1 +1,35 @@
 theme: jekyll-theme-minimal
+
+title: Fall 2017
+name: IDIA 640
+github_repository_name: idia640
+github_repository_url: https://github.com/idia640/idia640.github.io
+github_owner: Lisa D. Harper
+github_owner_url: https://github.com/idia640
+# github_zip_url:
+# paginate:
+# show_downloads:
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+include: ["_pages"]
+
+# Assets
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+permalink: pretty
+
+gems:
+- jemoji
+- jekyll-paginate
+
+# Kramdown options
+# https://kramdown.gettalong.org/rdoc/Kramdown/Options.html
+# kramdown:
+#   hard_wrap: true (already set to default)
