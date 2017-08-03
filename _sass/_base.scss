@@ -28,3 +28,24 @@ footer {
     bottom: 50px;
     -webkit-font-smoothing: subpixel-antialiased
 }
+
+// HEADER
+
+banner {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+.avatar {
+    flex: 1 auto;
+    border-radius: 3px;
+    height: 100px;
+    width: 100px
+}
+
+.title {
+    flex: 2 auto;
+    padding-left: 20px;
+}
