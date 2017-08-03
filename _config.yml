@@ -25,6 +25,9 @@ permalink: pretty
 gems:
 - jemoji
 - jekyll-paginate
+- jekyll-feed
+
+ # This will require each of these plugins automatically.
 
 # Kramdown options
 # https://kramdown.gettalong.org/rdoc/Kramdown/Options.html
