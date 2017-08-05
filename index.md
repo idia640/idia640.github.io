@@ -60,9 +60,10 @@ Students will be able to:
 | 3 Oct | [How we do think?](https://idia640.github.io/slides/week06.html) (Attention and the divided brain) | Kahneman Ch. 1-9 | Journal |
 | 10 Oct | [How do feelings affect our beliefs?](https://idia640.github.io/slides/week07.html) (Emotion, feeling, and neuroaesthics) | [Damasio](https://drive.google.com/open?id=0B3SsgcqV1xSSd09KN3RKTDdyUjA), [Nadal & Skov](https://drive.google.com/open?id=0B3SsgcqV1xSSSkVPeWxHaFhzZXM)  | Journal |
 | 17 Oct | [How do we understand?](https://idia640.github.io/slides/week08.html) (Communication as joint action)  | [Clark](https://drive.google.com/open?id=0B3SsgcqV1xSSMjR3UWFkbm9sNEU), [Goffman](https://drive.google.com/open?id=0B3SsgcqV1xSSY0N2TEYxaWd3ZXM) (optional: Johnson 14)| Journal |
-| 24 Oct |  | Kahneman Ch. 11-14, Johnson 12 | Journal |
-| 31 Oct | [How do people make decisions when they are uncertain?](https://idia640.github.io/slides/week09.html) (Rationality & decision-making) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
-| 7 Nov | [How are people influenced through persuasion?](https://idia640.github.io/slides/week10.html) | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
+| 24 Oct |  How do we make decisions? (Heuristics and biases)
+ | Kahneman Ch. 11-14, Johnson 12 | Journal |
+| 31 Oct | [How do we make decisions when we are uncertain?](https://idia640.github.io/slides/week09.html) (Rationality & decision-making) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
+| 7 Nov | [How are we influenced through persuasion?](https://idia640.github.io/slides/week10.html) | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
 | 4 Nov  | [How does culture affect thinking?](https://idia640.github.io/slides/week11.html)  | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
 | 21 Nov | Thanksgiving - No Class |  |  |
 | 28 Nov | [How do social networks affect behavior?](https://idia640.github.io/slides/week12.html)  | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
