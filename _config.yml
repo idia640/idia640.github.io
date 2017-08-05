@@ -26,7 +26,6 @@ gems:
 - jemoji
 - jekyll-paginate
 - jekyll-feed
-- jekyll-twitter-plugin
 
  # This will require each of these plugins automatically.
 
