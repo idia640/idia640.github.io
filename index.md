@@ -28,7 +28,7 @@ We will question these basic beliefs and show how they sometimes get us into tro
 
 **Critical Review:** Each student will write a short, critical review of a scientific article. A list of articles to choose from will be provided. This same article and review are to be presented in class later in the semester.  Guidelines and rubric will be provided. *(10 points/percent. 1 point deducted for each day late)*
 
-**Presentation:** During the course of the semester, each student will present her/his selected research paper to the class and lead a discussion. Class may be held in class or virtually over GotoMeeting. *(5 points/percent)*
+**Presentation (Critical Review):** During the course of the semester, each student will present her/his selected research paper to the class and lead a discussion. Class may be held in class or virtually over GotoMeeting. *(5 points/percent)*
 
 **Participation:** *(10 points/percent)*
 
@@ -41,31 +41,31 @@ Students will be able to:
 1. Critically review scientific papers and communicate key findings to peers.
 2. Demonstrate how theories of cognition and information processing apply to the design of interactive media.
 3. Understand when and how to apply key research methodologies used in the study of Human Computer Interaction (HCI).
-4. Create a persuasive design and discuss the science behind it. Propose and describe a method for testing hypotheses made.
+4. In the form of a case study, create a persuasive design and discuss the science behind it. Propose and describe a method for testing hypotheses made.
 
 # <a name="syll"></a> Syllabus
 
 **There will be two dates on which we will not hold class. I will announce these as soon as I know them and update this syllabus, as well.**
 
-Also, while there are embedded links to presentations, they are subject to revision before the day of class.
+*While there are embedded links to presentations, they are subject to revision before the day of class.*
 
 | Date | Topic | Readings | Assignments Due |
 | --- | --- | --- | --- |
 |  29 Aug | [Introduction](https://idia640.github.io/slides/week01.html), Getting started with GitHub  |    |   |
-|  5 Sept  | [HCI research methodologies: Experiments](https://idia640.github.io/slides/week02.html) | [Handout](https://drive.google.com/folderview?id=0B3SsgcqV1xSST2x1ZjF0a0R6WU0&usp=sharing) (restricted access) | [Github assignment](https://github.com/idia640/course-materials/blob/master/github-basics.md), [Design Problem](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
-|  12 Sept | [HCI research methodologies: Survey methodology and ethnology](https://idia640.github.com/slides/week03.html) | [Selected articles](https://github.com/idia640/course-materials/blob/master/articles-critical-review.md), [Duranti](https://drive.google.com/open?id=0B3SsgcqV1xSSdmc4TVB6ZjFOcjA), [Glasow](https://drive.google.com/open?id=0B3SsgcqV1xSSUmM0Y1phQjVQTWM)  | Critical review ([paper](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md), [discussion](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md)) |
-|  19 Sept | [How do we know what we see?](https://idia640.github.io/slides/week04.html)  Sense & perception| Ware Ch. 1-5, (optional: Johnson 1-5)  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
-| 26 Sept | [How do we know about things?](https://idia640.github.io/slides/week05.html) (Attention, memory, priming, and learning) | Ware Ch. 6-7, Johnson 7-9,11  | Journal, Project - elevator speech |
+|  5 Sept  | [HCI research methodology](https://idia640.github.io/slides/week02.html) (Experiments)| [Handout](https://drive.google.com/folderview?id=0B3SsgcqV1xSST2x1ZjF0a0R6WU0&usp=sharing) (restricted access) | [Github assignment](https://github.com/idia640/course-materials/blob/master/github-basics.md), [Design Problem](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
+|  12 Sept | [HCI research methodology](https://idia640.github.com/slides/week03.html) (Surveys and ethnography)| [Selected articles](https://github.com/idia640/course-materials/blob/master/articles-critical-review.md), [Duranti](https://drive.google.com/open?id=0B3SsgcqV1xSSdmc4TVB6ZjFOcjA), [Glasow](https://drive.google.com/open?id=0B3SsgcqV1xSSUmM0Y1phQjVQTWM)  | Critical review ([paper](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md), [discussion](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md)) |
+|  19 Sept | [How do we know what we see?](https://idia640.github.io/slides/week04.html)  (Sense & perception)| Ware Ch. 1-5, (optional: Johnson 1-5)  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
+| 26 Sept | [How do we know about things?](https://idia640.github.io/slides/week05.html) (Attention, memory, priming, and learning) | Ware Ch. 6-7, Johnson 7-9,11  | Journal, [Case Study - elevator speech](https://en.wikipedia.org/wiki/Elevator_pitch) |
 | 3 Oct | [How we do think?](https://idia640.github.io/slides/week06.html) (Attention and the divided brain) | Kahneman Ch. 1-9 | Journal |
 | 10 Oct | [How do feelings affect our beliefs?](https://idia640.github.io/slides/week07.html) (Emotion, feeling, and neuroaesthics) | [Damasio](https://drive.google.com/open?id=0B3SsgcqV1xSSd09KN3RKTDdyUjA), [Nadal & Skov](https://drive.google.com/open?id=0B3SsgcqV1xSSSkVPeWxHaFhzZXM)  | Journal |
 | 17 Oct | [How do we understand?](https://idia640.github.io/slides/week08.html) (Communication as joint action)  | [Clark](https://drive.google.com/open?id=0B3SsgcqV1xSSMjR3UWFkbm9sNEU), [Goffman](https://drive.google.com/open?id=0B3SsgcqV1xSSY0N2TEYxaWd3ZXM) (optional: Johnson 14)| Journal |
 | 24 Oct |  | Kahneman Ch. 11-14, Johnson 12 | Journal |
 | 31 Oct | [How do people make decisions when they are uncertain?](https://idia640.github.io/slides/week09.html) (Rationality & decision-making) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
 | 7 Nov | [How are people influenced through persuasion?](https://idia640.github.io/slides/week10.html) | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
-| 4 Nov  | [How does culture affect thinking?](https://idia640.github.io/slides/week11.html)  | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Weekly |
+| 4 Nov  | [How does culture affect thinking?](https://idia640.github.io/slides/week11.html)  | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
 | 21 Nov | Thanksgiving - No Class |  |  |
 | 28 Nov | [How do social networks affect behavior?](https://idia640.github.io/slides/week12.html)  | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
-|  5 Dec | Student Presentations |  | [Presentations](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
+|  5 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
 
 # <a name="texts"></a> Required Texts
 
