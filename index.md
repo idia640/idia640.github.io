@@ -24,24 +24,25 @@ We will question these basic beliefs and show how they sometimes get us into tro
 
 # <a name="req"></a> Course Requirements
 
-**Weekly reading and writing assignments:** Each week will include one or more readings of a topical nature. Students are expected to compose a short journal entry on that topic. *45% (5 points each, 1 point deducted for each day late)*
+**Weekly Reading and Writing Assignments:** Each week will include one or more readings of a topical nature. Students are expected to compose a short journal entry on that topic. *45% (5 points each, 1 point deducted for each day late)*
 
-**Critical Review:** Each student will write a short, critical review of a scientific article. A list of articles to choose from will be provided. This same article and review are to be presented in class later in the semester.  Guidelines and rubric will be provided. *(10 points/percent. 1 point deducted for each day late)*
+**Critical Review:** Each student will write a short, critical review of a scientific article. A list of articles to choose from will be provided. *(10 points/percent. 1 point deducted for each day late)*
 
-**Presentation (Critical Review):** During the course of the semester, each student will present her/his selected research paper to the class and lead a discussion. Class may be held in class or virtually over GotoMeeting. *(5 points/percent)*
-
-**Participation:** *(10 points/percent)*
+**Presentation (Critical Review):** During the course of the semester, each student will present her/his critical review to the class and lead a discussion. *(5 points/percent)*
 
 **Case Study:** Each student is required to complete a course project and present that project to peers at the end of course. The project is a case study with a focus on persuasive design. *(30 points/percent)*
+
+**Participation:** *(10 points/percent)*
 
 # <a name="obj"></a> Course Objectives
 
 Students will be able to:
 
 1. Critically review scientific papers and communicate key findings to peers.
-2. Demonstrate how theories of cognition and information processing apply to the design of interactive media.
+2. Communicate how theories of cognition and information processing apply to the design of interactive media.
 3. Understand when and how to apply key research methodologies used in the study of Human Computer Interaction (HCI).
-4. In the form of a case study, create a persuasive design and discuss the science behind it. Propose and describe a method for testing hypotheses made.
+4. In the form of a case study, create a persuasive design and discuss the science behind it.
+5. Propose and describe methods for testing a hypothesis centered on behavior change in interaction design.
 
 # <a name="syll"></a> Syllabus
 
@@ -52,8 +53,8 @@ Students will be able to:
 | Date | Topic | Readings | Assignments Due |
 | --- | --- | --- | --- |
 |  29 Aug | [Introduction](https://idia640.github.io/slides/week01.html), Getting started with GitHub  |    |   |
-|  5 Sept  | [HCI research methodology](https://idia640.github.io/slides/week02.html) (Experiments)| [Handout](https://drive.google.com/folderview?id=0B3SsgcqV1xSST2x1ZjF0a0R6WU0&usp=sharing) (restricted access) | [Github assignment](https://github.com/idia640/course-materials/blob/master/github-basics.md), [Design Problem](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
-|  12 Sept | [HCI research methodology](https://idia640.github.com/slides/week03.html) (Surveys and ethnography)| [Selected articles](https://github.com/idia640/course-materials/blob/master/articles-critical-review.md), [Duranti](https://drive.google.com/open?id=0B3SsgcqV1xSSdmc4TVB6ZjFOcjA), [Glasow](https://drive.google.com/open?id=0B3SsgcqV1xSSUmM0Y1phQjVQTWM)  | Critical review ([paper](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md), [discussion](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md)) |
+|  5 Sept  | [HCI research methodology](https://idia640.github.io/slides/week02.html) (Experiments)| [Handout](https://drive.google.com/folderview?id=0B3SsgcqV1xSST2x1ZjF0a0R6WU0&usp=sharing), [Choose article](https://github.com/idia640/course-materials/blob/master/articles-critical-review.md) (restricted access) | [Github Practice](https://github.com/idia640/course-materials/blob/master/github-basics.md), [Case Study proposal](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
+|  12 Sept | [HCI research methodology](https://idia640.github.com/slides/week03.html) (Surveys and ethnography)| [Duranti](https://drive.google.com/open?id=0B3SsgcqV1xSSdmc4TVB6ZjFOcjA), [Glasow](https://drive.google.com/open?id=0B3SsgcqV1xSSUmM0Y1phQjVQTWM)  | Critical review ([paper](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md), [presentation](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md)) |
 |  19 Sept | [How do we know what we see?](https://idia640.github.io/slides/week04.html)  (Sense & perception)| Ware Ch. 1-5, (optional: Johnson 1-5)  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
 | 26 Sept | [How do we know about things?](https://idia640.github.io/slides/week05.html) (Attention, memory, priming, and learning) | Ware Ch. 6-7, Johnson 7-9,11  | Journal, [Case Study - elevator speech](https://en.wikipedia.org/wiki/Elevator_pitch) |
 | 3 Oct | [How we do think?](https://idia640.github.io/slides/week06.html) (Attention and the divided brain) | Kahneman Ch. 1-9 | Journal |
@@ -76,6 +77,8 @@ Kahnemann, D. (2011). Thinking, Fast and Slow. Farrah, Straus and Giroux.
 Ware, C. (2008) Visual Thinking for Design. Elsevier.
 
 # <a name="related"></a> Related Reading
+
+Akerlof, G., Shiller R.J. (2015). Phishing for phools: The economics of manipulation and deception. Princeton University Press.
 
 Cialdini, R. B. (2003). Influence: The Psychology of Persuasion. Harper-Collins.
 
