@@ -2,7 +2,7 @@
 layout: default
 title: Humans, Computers, and Cognition
 ---
-# Course Description
+# <a name="desc"></a> Course Description
 {% include pdf.html %}
 How can you as an interaction designer positively affect what a user thinks and does?  This course will introduce you to a range of concepts, theories, and empirical methods from social psychology, linguistics, cognitive science, and neurobiology. These theoretical underpinnings will enable you to better predict under what conditions user confusion or miscommunication may occur and potential strategies for repair. They will also provide you foundational tools for creating more positive and persuasive interactions.
 
@@ -22,9 +22,9 @@ Some beliefs we will examine closely include:
 
 We will question these basic beliefs and show how they sometimes get us into trouble in communications design -- and also how we can use them to advantage.
 
-# Course Requirements
+# <a name="req"></a> Course Requirements
 
-**Weekly reading and writing assignments:** Each week will include one or more readings of a topical nature. Students are expected to compose a short, weekly journal entry on that topic. *45% (5 points each, 1 point deducted for each day late)*
+**Weekly reading and writing assignments:** Each week will include one or more readings of a topical nature. Students are expected to compose a short journal entry on that topic. *45% (5 points each, 1 point deducted for each day late)*
 
 **Critical Review:** Each student will write a short, critical review of a scientific article. A list of articles to choose from will be provided. This same article and review are to be presented in class later in the semester.  Guidelines and rubric will be provided. *(10 points/percent. 1 point deducted for each day late)*
 
@@ -32,9 +32,9 @@ We will question these basic beliefs and show how they sometimes get us into tro
 
 **Participation:** *(10 points/percent)*
 
-**Project:** Each student is required to complete a course project and present that project to peers at the end of course. The project will focus on persuasive design. *(30 points/percent)*
+**Case Study:** Each student is required to complete a course project and present that project to peers at the end of course. The project is a case study with a focus on persuasive design. *(30 points/percent)*
 
-# Course Objectives
+# <a name="obj"></a> Course Objectives
 
 Students will be able to:
 
@@ -43,7 +43,7 @@ Students will be able to:
 3. Understand when and how to apply key research methodologies used in the study of Human Computer Interaction (HCI).
 4. Create a persuasive design and discuss the science behind it. Propose and describe a method for testing hypotheses made.
 
-# Syllabus
+# <a name="syll"></a> Syllabus
 
 **There will be two dates on which we will not hold class. I will announce these as soon as I know them and update this syllabus, as well.**
 
@@ -67,7 +67,7 @@ Also, while there are embedded links to presentations, they are subject to revis
 | 28 Nov | [How do social networks affect behavior?](https://idia640.github.io/slides/week12.html)  | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
 |  5 Dec | Student Presentations |  | [Presentations](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
 
-# Required Texts
+# <a name="texts"></a> Required Texts
 
 Johnson, J. (2014). Designing with the Mind in the Mind. (2nd ed.) Morgan Kaufman.
 
@@ -75,7 +75,7 @@ Kahnemann, D. (2011). Thinking, Fast and Slow. Farrah, Straus and Giroux.
 
 Ware, C. (2008) Visual Thinking for Design. Elsevier.
 
-# Related Reading
+# <a name="related"></a> Related Reading
 
 Cialdini, R. B. (2003). Influence: The Psychology of Persuasion. Harper-Collins.
 
