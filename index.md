@@ -48,25 +48,22 @@ Students will be able to:
 
 **There will be two dates on which we will not hold class. I will announce these as soon as I know them and update this syllabus, as well.**
 
-*While there are embedded links to presentations, they are subject to revision before the day of class.*
-
 | Date | Topic | Readings | Assignments Due |
 | --- | --- | --- | --- |
-|  29 Aug | [Introduction](https://idia640.github.io/slides/week01.html), Getting started with GitHub  |    |   |
-|  5 Sept  | [HCI research methodology](https://idia640.github.io/slides/week02.html) (Experiments)| [Handout](), [Choose article](https://idia640.github.io/public/hcc-bibliography.pdf) (page 3) | Github practice exercise (from your repository), [Case Study proposal](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
-|  12 Sept | [HCI research methodology](https://idia640.github.com/slides/week03.html) (Surveys and ethnography)| [Duranti](), [Glasow]()  | Critical review ([paper](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md), [presentation](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md)) |
-|  19 Sept | [How do we know what we see?](https://idia640.github.io/slides/week04.html)  (Sense & perception)| Ware Ch. 1-5, (optional: Johnson 1-5)  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
-| 26 Sept | [How do we know about things?](https://idia640.github.io/slides/week05.html) (Attention, memory, priming, and learning) | Ware Ch. 6-7, Johnson 7-9,11  | Journal, [Case Study - elevator speech](https://en.wikipedia.org/wiki/Elevator_pitch) |
-| 3 Oct | [How we do think?](https://idia640.github.io/slides/week06.html) (Attention and the divided brain) | Kahneman Ch. 1-9 | Journal |
-| 10 Oct | [How do feelings affect our beliefs?](https://idia640.github.io/slides/week07.html) (Emotion, feeling, and neuroaesthics) | [Damasio](), [Nadal & Skov]()  | Journal |
-| 17 Oct | [How do we understand?](https://idia640.github.io/slides/week08.html) (Communication as joint action)  | [Clark](), [Goffman]() (optional: Johnson 14)| Journal |
-| 24 Oct |  How do we make decisions? (Heuristics and biases)
- | Kahneman Ch. 11-14, Johnson 12 | Journal |
-| 31 Oct | [How do we make decisions when we are uncertain?](https://idia640.github.io/slides/week09.html) (Rationality & decision-making) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
-| 7 Nov | [How are we influenced through persuasion?](https://idia640.github.io/slides/week10.html) | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
-| 4 Nov  | [How does culture affect thinking?](https://idia640.github.io/slides/week11.html)  | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
+|  29 Aug | Introduction, Getting started with GitHub  |    |   |
+|  5 Sept  | HCI research methodology | [Handout](https://www.dropbox.com/s/xtroffnqq4gl3u3/Research-Methods.pdf?dl=0), [Choose article](https://idia640.github.io/public/hcc-bibliography.pdf) (page 3) | Github practice exercise (from your repository), [Case Study proposal](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
+|  12 Sept | HCI research methodology (Surveys and ethnography)| [Duranti](https://www.dropbox.com/s/msc7jxk6gq6mxg8/Ethnographic%20methods.pdf?dl=0), [Glasow](https://www.dropbox.com/s/gev2j2zk2uejol9/fundamentals%20of%20survey%20research%20methodology.pdf?dl=0)  | Critical review ([paper](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md), [presentation](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md)) |
+|  19 Sept | How do we know what we see?  (Sense & perception)| Ware Ch. 1-5, (optional: Johnson 1-5)  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
+| 26 Sept | How do we know about things? (Attention, memory, priming, and learning) | Ware Ch. 6-7, Johnson 7-9,11  | Journal, [Case Study - elevator speech](https://en.wikipedia.org/wiki/Elevator_pitch) |
+| 3 Oct | How we do think? (Attention and the divided brain) | Kahneman Ch. 1-9 | Journal |
+| 10 Oct | How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics) | [Damasio](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0) pp. 129-169, [Alt. Video](http://library.fora.tv/2009/07/04/Antonio_Damasio_This_Time_With_Feeling), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0)  | Journal |
+| 17 Oct | How do we understand? (Communication as joint action)  | [Clark](https://www.dropbox.com/s/g7a1kdeogz6a9l0/clark-language-use-1.pdf?dl=0), [Goffman](https://www.dropbox.com/s/2oomwvird5ju18n/goffman.pdf?dl=0) (optional: Johnson 14)| Journal |
+| 24 Oct |  How do we make decisions? (Heuristics and biases)| Kahneman Ch. 11-14, Johnson 12 | Journal |
+| 31 Oct | How do we make decisions when we are uncertain? (Rationality & decision-making) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
+| 7 Nov | How are we influenced through persuasion? | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
+| 4 Nov  | How does culture affect thinking? | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
 | 21 Nov | Thanksgiving - No Class |  |  |
-| 28 Nov | [How do social networks affect behavior?](https://idia640.github.io/slides/week12.html)  | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
+| 28 Nov | How do social networks affect behavior? | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
 |  5 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
 
 # <a name="texts"></a> Required Texts
