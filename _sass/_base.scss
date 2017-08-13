@@ -39,9 +39,47 @@ banner {
 }
 .item {
   flex: 1;
-/*  background-color: blue;     <-- just for demonstration */
 }
 
 .icon-file-pdf:before {
   content: "\eadf";
+}
+
+// Adjusts left col so scrolling but not responsive
+// Better solution likely here:
+//https://css-tricks.com/guide-responsive-friendly-css-columns/
+
+.topRight, .bottomRight{
+    margin: 0px 0px 0px 0%;
+}
+
+.main{
+    height: 100%;
+    position: relative;
+}
+
+
+.leftDiv
+{
+
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    //width: 18%;
+    bottom: 0px;
+    //background-color: aqua;
+}
+
+.topRight
+{
+    //background-color: green;
+}
+.bottomRight
+{
+    //background-color: red;
+}
+
+.footer
+{
+    background: blue;
 }
