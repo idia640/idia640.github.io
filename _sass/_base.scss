@@ -1,85 +1,71 @@
-footer {
-    width: 270px;
-    font-size: smaller;
-    position: static;
-    bottom: 50px;
-    -webkit-font-smoothing: subpixel-antialiased
-}
 
-// HEADER
-
-banner {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-
-}
 
 .avatar {
-    flex: 1 auto;
-    border-radius: 3px;
+    grid-area: avatar;
     height: 100px;
-    width: 100px
+    width: 100px;
+    float: left;
+    margin: 0px 15px 15px 0px;
+
 }
 
 .title {
-    flex: 2 auto;
-    padding-left: 20px;
+    grid-area: title;
+}
+
+.header {
+  grid-area: header;
+}
+
+.sidebar {
+  grid-area: sidebar;
+}
+
+.main {
+  grid-area: main;
+}
+
+.footer {
+  grid-area: footer;
+}
+
+.grid {
+  grid-template-columns: 100px 270px auto;
+  grid-template-rows: 100px auto;
+  grid-template-areas:
+    "avatar title header"
+    "sidebar sidebar main"
+    "footer footer footer";
+    grid-row-gap: 20px;
+    grid-col-gap: 50px;
+    display: grid;
 }
 
 
-.flexrow {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+	@media only screen and (max-width: 600px)  {
+    .grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-gap: 1em;
+      grid-template-areas:
+       "avatar"
+       "title"
+       "sidebar"
+       "main"
+       "footer"
+    }
+	}
+
+
+@media print {
+    body {
+        padding: 0.4in;
+        font-size: 12pt;
+        color: #444
+    }
 }
-.flexcol {
-  display: flex;
-  flex-direction: column;
-}
-.item {
-  flex: 1;
-}
+
 
 .icon-file-pdf:before {
   content: "\eadf";
-}
-
-// Adjusts left col so scrolling but not responsive
-// Better solution likely here:
-//https://css-tricks.com/guide-responsive-friendly-css-columns/
-
-.topRight, .bottomRight{
-    margin: 0px 0px 0px 0%;
-}
-
-.main{
-    height: 100%;
-    position: relative;
-}
-
-
-.leftDiv
-{
-
-    position: absolute;
-    left: 0px;
-    top: 0px;
-    //width: 18%;
-    bottom: 0px;
-    //background-color: aqua;
-}
-
-.topRight
-{
-    //background-color: green;
-}
-.bottomRight
-{
-    //background-color: red;
-}
-
-.footer
-{
-    background: blue;
 }

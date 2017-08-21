@@ -24,7 +24,6 @@ permalink: pretty
 
 gems:
 - jemoji
-- jekyll-paginate
 - jekyll-feed
 
  # This will require each of these plugins automatically.
