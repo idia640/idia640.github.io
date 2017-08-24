@@ -31,13 +31,17 @@
   grid-area: footer;
 }
 
+.spacer {
+
+}
+
 .grid {
   grid-template-columns: 100px 270px auto;
   grid-template-rows: 100px auto;
   grid-template-areas:
     "avatar title main"
     "sidebar sidebar main"
-    "footer footer footer";
+    "spacer footer footer";
     grid-row-gap: 20px;
     grid-col-gap: 50px;
     display: grid;
