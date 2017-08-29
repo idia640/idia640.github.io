@@ -50,7 +50,7 @@ Students will be able to:
 
 | Date | Topic | Readings | Assignments Due |
 | --- | --- | --- | --- |
-|  29 Aug | Introduction, Getting started with GitHub  |    |   |
+|  29 Aug | [Introduction, Getting started with GitHub](https://gitpitch.com/idia640/presentations/master?p=week01)  |    |   |
 |  5 Sept  | HCI research methodology | [Handout](https://www.dropbox.com/s/xtroffnqq4gl3u3/Research-Methods.pdf?dl=0), [Choose article](https://idia640.github.io/public/hcc-bibliography.pdf) (page 3) | Github practice exercise (from your repository), [Case Study proposal](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
 |  12 Sept | HCI research methodology (Surveys and ethnography)| [Duranti](https://www.dropbox.com/s/msc7jxk6gq6mxg8/Ethnographic%20methods.pdf?dl=0), [Glasow](https://www.dropbox.com/s/gev2j2zk2uejol9/fundamentals%20of%20survey%20research%20methodology.pdf?dl=0)  | Critical review ([paper](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md), [presentation](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md)) |
 |  19 Sept | How do we know what we see?  (Sense & perception)| Ware Ch. 1-5, (optional: Johnson 1-5)  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
