@@ -32,7 +32,7 @@ We will question these basic beliefs and show how they sometimes get us into tro
 
 **Case Study:** Each student is required to complete a course project and present that project to peers at the end of course. The project is a case study with a focus on persuasive design. *(30 points/percent)*
 
-**Participation:** *(10 points/percent)*
+**Participation:** Class participation on Slack and via Zoom. Excessive absence without pre-coordination will result in lost points. *(10 points/percent)*
 
 # <a name="obj"></a> Course Objectives
 
@@ -89,3 +89,7 @@ Thaler,R. & Sunstein, C. (2009). Nudge: Improving Decisions About Health, Wealth
 Sedivy, J., & Carlson, G. (2011). Sold on Language: How Advertisers Talk to You and What This Says about You.
 
 Weinschenk, S. (2011). 100 Things Every Designer Needs to Know about People. Pearson Education.
+
+# UB Resources
+
+[Addendum](http://www.ubalt.edu/about-ub/offices-and-services/provost/faculty- affairs/Student_Resource_List--Spr2017_FINAL.docx)
