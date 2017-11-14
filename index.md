@@ -58,10 +58,10 @@ Students will be able to:
 | 3 Oct | [How we do think? (Attention and the divided brain)](https://gitpitch.com/idia640/presentations/master?p=week06) | Kahneman Ch. 1-9 | Journal |
 | 10 Oct | [How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)](https://gitpitch.com/idia640/presentations/master?p=week07) | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](http://library.fora.tv/2009/07/04/Antonio_Damasio_This_Time_With_Feeling), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0)  | Journal |
 | 17 Oct | [How do we understand? (Communication as joint action)](https://gitpitch.com/idia640/presentations/master?p=week08) | [Clark](https://www.dropbox.com/s/g7a1kdeogz6a9l0/clark-language-use-1.pdf?dl=0), [Goffman](https://www.dropbox.com/s/2oomwvird5ju18n/goffman.pdf?dl=0) (optional: Johnson 14)| Journal |
-| 24 Oct |  How do we make decisions? (Heuristics and biases)| Kahneman Ch. 11-14, Johnson 12 | Journal |
-| 31 Oct | How do we make decisions when we are uncertain? (Rationality & decision-making) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
-| 7 Nov | No Class (online only) - How are we influenced through persuasion? | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
-| 14 Nov  | How does culture affect thinking? | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
+| 24 Oct |  [How do we make decisions? (Heuristics and biases)](https://gitpitch.com/idia640/presentations/master?p=week09)| Kahneman Ch. 11-14, Johnson 12 | Journal |
+| 31 Oct | [How do we make decisions when we are uncertain? (Rationality & decision-making)](https://gitpitch.com/idia640/presentations/master?p=week09) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
+| 7 Nov | No Class (online only) - [How are we influenced through persuasion?](https://gitpitch.com/idia640/presentations/master?p=week010) | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
+| 14 Nov  | [How does culture affect thinking?](https://gitpitch.com/idia640/presentations/master?p=week11) | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
 | 21 Nov | Thanksgiving - No Class |  |  |
 | 28 Nov | How do social networks affect behavior? | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
 |  5 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
