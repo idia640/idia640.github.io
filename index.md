@@ -63,7 +63,7 @@ Students will be able to:
 | 7 Nov | No Class (online only) - [How are we influenced through persuasion?](https://gitpitch.com/idia640/presentations/master?p=week010) | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
 | 14 Nov  | [How does culture affect thinking?](https://gitpitch.com/idia640/presentations/master?p=week11) | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
 | 21 Nov | Thanksgiving - No Class |  |  |
-| 28 Nov | How do social networks affect behavior? | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
+| 28 Nov | [How do social networks affect behavior?](https://gitpitch.com/idia640/presentations/master?grs=github&t=black&p=week12) | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
 |  5 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
 
 # <a name="texts"></a> Required Texts
