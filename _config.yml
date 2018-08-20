@@ -1,1 +1,34 @@
 theme: jekyll-theme-minimal
+
+title: IDIA 640 Fall 2018
+name: Humans, Computers, and Cognition
+github_repository_name: idia640
+github_repository_url: https://github.com/idia640/idia640.github.io
+github_owner: Lisa D. Harper
+github_owner_url: https://github.com/idia640
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
+include: ["_pages"]
+
+# Assets
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+permalink: pretty
+
+gems:
+- jemoji
+- jekyll-feed
+
+ # This will require each of these plugins automatically.
+
+# Kramdown options
+# https://kramdown.gettalong.org/rdoc/Kramdown/Options.html
+# kramdown:
+#   hard_wrap: true (already set to default)
