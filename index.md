@@ -50,20 +50,20 @@ Students will be able to:
 
 | Date | Topic | Readings | Assignments Due |
 | --- | --- | --- | --- |
-|  28 Aug | [Introduction, Getting started with GitHub](https://gitpitch.com/idia640/presentations/master?p=week01)  |    |   |
-|  4 Sept  | [HCI research methodology](https://gitpitch.com/idia640/presentations/master?p=week02) | [Mabson et al.](https://www.dropbox.com/s/pneg5f2glxz5yrr/WhatisDE.pdf?dl=0), [Price Ch. 9](https://www.dropbox.com/s/o8ka87rn4h8n35d/Research-Methods-in-Psychology.pdf?dl=0), [Choose article](https://idia640.github.io/public/hcc-bibliography.pdf) (page 3) | Github practice exercise (from your repository), [Case Study proposal](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
-|  11 Sept | [HCI research methodology (Surveys and ethnography)](https://gitpitch.com/idia640/presentations/master?p=week03)| Selected  paper |  [Critical review](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md) |
-|  18 Sept | [How do we know what we see?  (Sense & perception)](https://gitpitch.com/idia640/presentations/master?p=week04)| Ware Ch. 1-4 or Johnson Ch. 1-5  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
-| 25 Sept | [How do we know about things? (Attention, memory, priming, and learning)](https://gitpitch.com/idia640/presentations/master?p=week05) | Ware Ch. 6-7, Johnson Ch. 7-9,11  | Journal, [Case Study - elevator speech](https://en.wikipedia.org/wiki/Elevator_pitch) |
-| 2 Oct | [How we do think? (Attention and the divided brain)](https://gitpitch.com/idia640/presentations/master?p=week06) | Kahneman Ch. 1-9 | Journal |
-| 9 Oct | [How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)](https://gitpitch.com/idia640/presentations/master?p=week07) | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](http://library.fora.tv/2009/07/04/Antonio_Damasio_This_Time_With_Feeling), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0)  | Journal |
-| 16 Oct | [How do we understand? (Communication as joint action)](https://gitpitch.com/idia640/presentations/master?p=week08) | [Clark](https://www.dropbox.com/s/g7a1kdeogz6a9l0/clark-language-use-1.pdf?dl=0), TBD trade pub (Conversational UI) Optional: Johnson Ch. 14| Journal |
-| 23 Oct |  [How do we make decisions? (Heuristics and biases)](https://gitpitch.com/idia640/presentations/master?p=week09)| Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
-| 30 Oct | [How do we make decisions when we are uncertain? (Rationality & decision-making)](https://gitpitch.com/idia640/presentations/master?p=week09) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
-| 6 Nov | No Class (online only) - [How are we influenced through persuasion?](https://gitpitch.com/idia640/presentations/master?p=week010) | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
-| 13 Nov  | [How does culture affect thinking?](https://gitpitch.com/idia640/presentations/master?p=week11) | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
+|  28 Aug | Introduction, Getting started with GitHub   |    |   |
+|  4 Sept  | HCI research methodology | [Mabson et al.](https://www.dropbox.com/s/pneg5f2glxz5yrr/WhatisDE.pdf?dl=0), [Price Ch. 9](https://www.dropbox.com/s/o8ka87rn4h8n35d/Research-Methods-in-Psychology.pdf?dl=0), [Choose article](https://idia640.github.io/public/hcc-bibliography.pdf) (page 3) | Github practice exercise (from your repository), [Case Study proposal](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
+|  11 Sept | HCI research methodology (Surveys and ethnography| Selected  paper |  [Critical review](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md) |
+|  18 Sept | How do we know what we see?  (Sense & perception)| Ware Ch. 1-4 or Johnson Ch. 1-5  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
+| 25 Sept | How do we know about things? (Attention, memory, priming, and learning) | Ware Ch. 6-7, Johnson Ch. 7-9,11  | Journal, [Case Study - elevator speech](https://en.wikipedia.org/wiki/Elevator_pitch) |
+| 2 Oct | How we do think? (Attention and the divided brain | Kahneman Ch. 1-9 | Journal |
+| 9 Oct | How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics) | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](http://library.fora.tv/2009/07/04/Antonio_Damasio_This_Time_With_Feeling), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0)  | Journal |
+| 16 Oct | How do we understand? (Communication as joint action) | [Clark](https://www.dropbox.com/s/g7a1kdeogz6a9l0/clark-language-use-1.pdf?dl=0), TBD trade pub (Conversational UI) Optional: Johnson Ch. 14| Journal |
+| 23 Oct |  How do we make decisions? (Heuristics and biases)| Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
+| 30 Oct | How do we make decisions when we are uncertain? (Rationality & decision-making) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
+| 6 Nov | How are we influenced through persuasion? | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
+| 13 Nov  | How does culture affect thinking? | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
 | 20 Nov | Thanksgiving - No Class |  |  |
-| 27 Nov | [How do social networks affect behavior?](https://gitpitch.com/idia640/presentations/master?grs=github&t=black&p=week12) | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
+| 27 Nov | How do social networks affect behavior? | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
 |  4 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
 
 # <a name="texts"></a> Required Texts
