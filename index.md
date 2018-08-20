@@ -50,27 +50,27 @@ Students will be able to:
 
 | Date | Topic | Readings | Assignments Due |
 | --- | --- | --- | --- |
-|  29 Aug | [Introduction, Getting started with GitHub](https://gitpitch.com/idia640/presentations/master?p=week01)  |    |   |
-|  5 Sept  | [HCI research methodology](https://gitpitch.com/idia640/presentations/master?p=week02) | [Handout](https://www.dropbox.com/s/xtroffnqq4gl3u3/Research-Methods.pdf?dl=0), [Choose article](https://idia640.github.io/public/hcc-bibliography.pdf) (page 3) | Github practice exercise (from your repository), [Case Study proposal](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
-|  12 Sept | [HCI research methodology (Surveys and ethnography)](https://gitpitch.com/idia640/presentations/master?p=week03)| [Duranti](https://www.dropbox.com/s/msc7jxk6gq6mxg8/Ethnographic%20methods.pdf?dl=0), [Glasow](https://www.dropbox.com/s/gev2j2zk2uejol9/fundamentals%20of%20survey%20research%20methodology.pdf?dl=0)  | Critical review ([paper](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md), [presentation](https://github.com/idia640/course-materials/blob/master/presentation-critical-review.md)) |
-|  19 Sept | [How do we know what we see?  (Sense & perception)](https://gitpitch.com/idia640/presentations/master?p=week04)| Ware Ch. 1-5, (optional: Johnson 1-5)  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
-| 26 Sept | [How do we know about things? (Attention, memory, priming, and learning)](https://gitpitch.com/idia640/presentations/master?p=week05) | Ware Ch. 6-7, Johnson 7-9,11  | Journal, [Case Study - elevator speech](https://en.wikipedia.org/wiki/Elevator_pitch) |
-| 3 Oct | [How we do think? (Attention and the divided brain)](https://gitpitch.com/idia640/presentations/master?p=week06) | Kahneman Ch. 1-9 | Journal |
-| 10 Oct | [How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)](https://gitpitch.com/idia640/presentations/master?p=week07) | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](http://library.fora.tv/2009/07/04/Antonio_Damasio_This_Time_With_Feeling), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0)  | Journal |
-| 17 Oct | [How do we understand? (Communication as joint action)](https://gitpitch.com/idia640/presentations/master?p=week08) | [Clark](https://www.dropbox.com/s/g7a1kdeogz6a9l0/clark-language-use-1.pdf?dl=0), [Goffman](https://www.dropbox.com/s/2oomwvird5ju18n/goffman.pdf?dl=0) (optional: Johnson 14)| Journal |
-| 24 Oct |  [How do we make decisions? (Heuristics and biases)](https://gitpitch.com/idia640/presentations/master?p=week09)| Kahneman Ch. 11-14, Johnson 12 | Journal |
-| 31 Oct | [How do we make decisions when we are uncertain? (Rationality & decision-making)](https://gitpitch.com/idia640/presentations/master?p=week09) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
-| 7 Nov | No Class (online only) - [How are we influenced through persuasion?](https://gitpitch.com/idia640/presentations/master?p=week010) | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
-| 14 Nov  | [How does culture affect thinking?](https://gitpitch.com/idia640/presentations/master?p=week11) | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
-| 21 Nov | Thanksgiving - No Class |  |  |
-| 28 Nov | [How do social networks affect behavior?](https://gitpitch.com/idia640/presentations/master?grs=github&t=black&p=week12) | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
-|  5 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
+|  28 Aug | [Introduction, Getting started with GitHub](https://gitpitch.com/idia640/presentations/master?p=week01)  |    |   |
+|  4 Sept  | [HCI research methodology](https://gitpitch.com/idia640/presentations/master?p=week02) | [Mabson et al.](https://www.dropbox.com/s/pneg5f2glxz5yrr/WhatisDE.pdf?dl=0), [Price Ch. 9](https://www.dropbox.com/s/o8ka87rn4h8n35d/Research-Methods-in-Psychology.pdf?dl=0), [Choose article](https://idia640.github.io/public/hcc-bibliography.pdf) (page 3) | Github practice exercise (from your repository), [Case Study proposal](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
+|  11 Sept | [HCI research methodology (Surveys and ethnography)](https://gitpitch.com/idia640/presentations/master?p=week03)| Selected  paper |  [Critical review](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md) |
+|  18 Sept | [How do we know what we see?  (Sense & perception)](https://gitpitch.com/idia640/presentations/master?p=week04)| Ware Ch. 1-4 or Johnson Ch. 1-5  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
+| 25 Sept | [How do we know about things? (Attention, memory, priming, and learning)](https://gitpitch.com/idia640/presentations/master?p=week05) | Ware Ch. 6-7, Johnson Ch. 7-9,11  | Journal, [Case Study - elevator speech](https://en.wikipedia.org/wiki/Elevator_pitch) |
+| 2 Oct | [How we do think? (Attention and the divided brain)](https://gitpitch.com/idia640/presentations/master?p=week06) | Kahneman Ch. 1-9 | Journal |
+| 9 Oct | [How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)](https://gitpitch.com/idia640/presentations/master?p=week07) | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](http://library.fora.tv/2009/07/04/Antonio_Damasio_This_Time_With_Feeling), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0)  | Journal |
+| 16 Oct | [How do we understand? (Communication as joint action)](https://gitpitch.com/idia640/presentations/master?p=week08) | [Clark](https://www.dropbox.com/s/g7a1kdeogz6a9l0/clark-language-use-1.pdf?dl=0), TBD trade pub (Conversational UI) Optional: Johnson Ch. 14| Journal |
+| 23 Oct |  [How do we make decisions? (Heuristics and biases)](https://gitpitch.com/idia640/presentations/master?p=week09)| Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
+| 30 Oct | [How do we make decisions when we are uncertain? (Rationality & decision-making)](https://gitpitch.com/idia640/presentations/master?p=week09) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
+| 6 Nov | No Class (online only) - [How are we influenced through persuasion?](https://gitpitch.com/idia640/presentations/master?p=week010) | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
+| 13 Nov  | [How does culture affect thinking?](https://gitpitch.com/idia640/presentations/master?p=week11) | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
+| 20 Nov | Thanksgiving - No Class |  |  |
+| 27 Nov | [How do social networks affect behavior?](https://gitpitch.com/idia640/presentations/master?grs=github&t=black&p=week12) | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
+|  4 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
 
 # <a name="texts"></a> Required Texts
 
 Johnson, J. (2014). Designing with the Mind in the Mind. (2nd ed.) Morgan Kaufman.
 
-Kahnemann, D. (2011). Thinking, Fast and Slow. Farrah, Straus and Giroux.
+Kahneman, D. (2011). Thinking, Fast and Slow. Farrah, Straus and Giroux.
 
 Ware, C. (2008) Visual Thinking for Design. Elsevier.
 
@@ -83,6 +83,8 @@ Cialdini, R. B. (2003). Influence: The Psychology of Persuasion. Harper-Collins.
 Fogg, BJ. (2002). Persuasive Technology: Using Computers to Change What We Think and Do. Morgan Kaufmann.
 
 Gliner, J. A., Morgan, G. A., & Leech, N. L. (2011). Research Methods in Applied Settings: An Integrated Approach to Design and Analysis. Routledge.
+
+Price, P.,  Jhangiani, R, & Chiang, I. (2015) Research Methods in Psychology. https://opentextbc.ca/researchmethods/
 
 Thaler,R. & Sunstein, C. (2009). Nudge: Improving Decisions About Health, Wealth, and Happiness. Penguin Books.
 
