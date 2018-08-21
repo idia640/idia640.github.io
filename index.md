@@ -65,6 +65,7 @@ Students will be able to:
 | 20 Nov | Thanksgiving - No Class |  |  |
 | 27 Nov | How do social networks affect behavior? | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
 |  4 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
+|  11 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
 
 # <a name="texts"></a> Required Texts
 
