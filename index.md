@@ -65,6 +65,7 @@ Students will be able to:
 | 20 Nov | Thanksgiving - No Class |  |  |
 | 27 Nov | [How do social networks affect behavior?](https://gitpitch.com/idia640/presentations/master?grs=github&t=black&p=week12) | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
 |  4 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
+|  11 Dec | Conclude Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-final-project.md) |
 
 # <a name="texts"></a> Required Texts
 
@@ -83,6 +84,8 @@ Cialdini, R. B. (2003). Influence: The Psychology of Persuasion. Harper-Collins.
 Fogg, BJ. (2002). Persuasive Technology: Using Computers to Change What We Think and Do. Morgan Kaufmann.
 
 Gliner, J. A., Morgan, G. A., & Leech, N. L. (2011). Research Methods in Applied Settings: An Integrated Approach to Design and Analysis. Routledge.
+
+Pearson, Bob. (2016). Storytizing. 1845 Publishing. 
 
 Price, P.,  Jhangiani, R, & Chiang, I. (2015) Research Methods in Psychology. https://opentextbc.ca/researchmethods/
 
