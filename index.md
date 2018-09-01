@@ -46,13 +46,13 @@ Students will be able to:
 
 # <a name="syll"></a> Syllabus
 
-**There will be two dates on which we will not hold class. I will announce these as soon as I know them and update this syllabus, as well.**
+**There will be one date we will not hold class. I will announce this as soon as I know and update this syllabus, as well.**
 
 | Date | Topic | Readings | Assignments Due |
 | --- | --- | --- | --- |
-|  28 Aug | [Introduction](https://gitpitch.com/idia640/presentations/master?p=week01#/5), Getting started with GitHub   |    |   |
-|  4 Sept  | HCI research methodology | [Mabson et al.](https://www.dropbox.com/s/pneg5f2glxz5yrr/WhatisDE.pdf?dl=0), [Price Ch. 9](https://www.dropbox.com/s/o8ka87rn4h8n35d/Research-Methods-in-Psychology.pdf?dl=0), [Choose article](https://github.com/idia640/course-materials/blob/master/schedule-presentations-2018.md) | Github practice exercise (from your repository), [Case Study proposal](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
-|  11 Sept | HCI research methodology (Surveys and ethnography| Selected  paper |  [Critical review](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md) |
+|  28 Aug | [Introduction & Getting started with GitHub](https://gitpitch.com/idia640/presentations/master?p=week01#/5) |    |   |
+|  4 Sept  | [HCI research methodology (Experimentation)](https://gitpitch.com/idia640/presentations/master?p=week02) | [Mabson et al.](https://www.dropbox.com/s/pneg5f2glxz5yrr/WhatisDE.pdf?dl=0), [Price Ch. 9](https://www.dropbox.com/s/o8ka87rn4h8n35d/Research-Methods-in-Psychology.pdf?dl=0), [Choose article](https://github.com/idia640/course-materials/blob/master/schedule-presentations-2018.md) | Github practice exercise (from your repository), [Case Study proposal](https://github.com/idia640/course-materials/blob/master/problem-statement.md) |
+|  11 Sept | HCI research methodology (Surveys and ethnography) | Selected  paper |  [Critical review](https://github.com/idia640/course-materials/blob/master/guidelines-short-paper.md) |
 |  18 Sept | How do we know what we see?  (Sense & perception)| Ware Ch. 1-4 or Johnson Ch. 1-5  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
 | 25 Sept | How do we know about things? (Attention, memory, priming, and learning) | Ware Ch. 6-7, Johnson Ch. 7-9,11  | Journal, [Case Study - elevator speech](https://en.wikipedia.org/wiki/Elevator_pitch) |
 | 2 Oct | How we do think? (Attention and the divided brain | Kahneman Ch. 1-9 | Journal |
