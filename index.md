@@ -77,7 +77,7 @@ Ware, C. (2008) Visual Thinking for Design. Elsevier.
 
 # <a name="related"></a> Related Reading
 
-Ariely, D. (2010). Predictibly Irrational. Harper Perennial; Revised and Expanded ed. edition.
+Ariely, D. (2010). Predictably Irrational. Harper Perennial; Revised and Expanded ed. edition.
 
 Akerlof, G., Shiller R.J. (2015). Phishing for phools: The economics of manipulation and deception. Princeton University Press.
 
