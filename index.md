@@ -55,7 +55,7 @@ Students will be able to:
 |  11 Sept | [HCI research methodology (Surveys and ethnography)](https://gitpitch.com/idia640/presentations/master?p=week02)  | Selected  paper |  [Critical review](https://github.com/idia640/course-materials/blob/master/guidelines-critical-review.md) |
 |  18 Sept | [How do we know what we see?  (Sense & perception)](https://gitpitch.com/idia640/presentations/master?p=week04) | Ware Ch. 1-4 or Johnson Ch. 1-5  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
 | 25 Sept | [How do we know about things? (Attention, memory, priming, and learning)](https://gitpitch.com/idia640/presentations/master?p=week05) | Ware Ch. 6-7, Johnson Ch. 7-9,11  | Journal, [Case Study - elevator speech](https://en.wikipedia.org/wiki/Elevator_pitch) |
-| 2 Oct | How we do think? (Attention and the divided brain | Kahneman Ch. 1-9 | Journal |
+| 2 Oct | [How we do think? (Attention and the divided brain](https://gitpitch.com/idia640/presentations/master?p=week04) | Kahneman Ch. 1-9 | Journal |
 | 9 Oct | How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics) | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](http://library.fora.tv/2009/07/04/Antonio_Damasio_This_Time_With_Feeling), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0)  | Journal |
 | 16 Oct | How do we understand? (Communication as joint action) | [Clark](https://www.dropbox.com/s/g7a1kdeogz6a9l0/clark-language-use-1.pdf?dl=0), TBD trade pub (Conversational UI) Optional: Johnson Ch. 14| Journal |
 | 23 Oct |  How do we make decisions? (Heuristics and biases)| Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
