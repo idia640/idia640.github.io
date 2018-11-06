@@ -60,8 +60,8 @@ Students will be able to:
 | 16 Oct | [How do we understand? (Communication as joint action)](https://gitpitch.com/idia640/presentations/master?p=week08) | [Clark](https://www.dropbox.com/s/g7a1kdeogz6a9l0/clark-language-use-1.pdf?dl=0), [Conversational UX](https://www.nytimes.com/interactive/2018/08/17/technology/alexa-siri-conversation.html) Optional: Johnson Ch. 14| Journal |
 | 23 Oct |  NO CLASS [How do we make decisions? (Heuristics and biases)](https://gitpitch.com/idia640/presentations/master?p=week09)| Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
 | 30 Oct | [How do we make decisions when we are uncertain? (Rationality & decision-making)](https://gitpitch.com/idia640/presentations/master?p=week09) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
-| 6 Nov | How are we influenced through persuasion? | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
-| 13 Nov  | How does culture affect thinking? | [Hall (85-103)](https://monoskop.org/images/6/60/Hall_Edward_T_Beyond_Culture.pdf) | Journal |
+| 6 Nov | [How are we influenced through persuasion?](https://gitpitch.com/idia640/presentations/master?p=week10) | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
+| 13 Nov  | How does culture affect thinking? | [Hall & Hall](https://www.dropbox.com/s/t786slow4cnd3zc/Hall%20and%20Hall%201990.pdf?dl=0) | Journal |
 | 20 Nov | Thanksgiving - No Class |  |  |
 | 27 Nov | How do social networks affect behavior? | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
 |  4 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-case-study.md) |
