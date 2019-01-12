@@ -28,9 +28,9 @@ We will question these basic beliefs and show how they sometimes get us into tro
 
 **Critical Review:** Each student will write a short, critical review of a scientific article. A list of articles to choose from will be provided. *(10 points/percent. 1 point deducted for each day late)*
 
-**Presentation (Critical Review):** During the course of the semester, each student will present her/his critical review to the class and lead a discussion. *(5 points/percent)*
+**Presentation (Critical Review):** During the course of the semester, each student will present her/his critical review to the class. *(5 points/percent)*
 
-**Case Study:** Each student is required to complete a course project and present that project to peers at the end of course. The project is a case study with a focus on persuasive design. *(30 points/percent)*
+**Case Study:** Each student is required to complete a course project and present that project to peers at the end of course. The project is a case study with a focus on persuasive design. *(30 points spread (20/10) across two deliverables - a written template and poster presentation)*
 
 **Participation:** Class participation on Slack and via Zoom. Excessive absence without pre-coordination will result in lost points. *(10 points/percent)*
 
@@ -41,31 +41,30 @@ Students will be able to:
 1. Critically review scientific papers and communicate key findings to peers.
 2. Communicate how theories of cognition and information processing apply to the design of interactive media.
 3. Understand when and how to apply key research methodologies used in the study of Human Computer Interaction (HCI).
-4. In the form of a case study, create a persuasive design and discuss the science behind it.
-5. Propose and describe methods for testing a hypothesis centered on behavior change in interaction design.
+4. Propose and describe methods for testing a hypothesis centered on behavior change in interaction design.
+5. In the form of a case study, create a persuasive design and discuss the science behind it. Present your work in a poster session as you would in a real conference.
 
-# <a name="syll"></a> Syllabus
+# <a name="syll"></a> Spring 2019 Syllabus
 
-**There will be one date we will not hold class. I will announce this as soon as I know and update this syllabus, as well.**
+**<font color="red">Inclement weather policy: Because Zoom is an option, we will communicate the day of class whether we hold class on Zoom instead of in the classroom depending on  forecasted conditions.</font>**
 
-| Date | Topic | Readings | Assignments Due |
-| --- | --- | --- | --- |
-|  28 Aug | [Introduction & Getting started with GitHub](https://gitpitch.com/idia640/presentations/master?p=week01#/5) |    |   |
-|  4 Sept  | [HCI research methodology (Experimentation)](https://gitpitch.com/idia640/presentations/master?p=week02) | [Mabson et al.](https://www.dropbox.com/s/pneg5f2glxz5yrr/WhatisDE.pdf?dl=0), [Price Ch. 9](https://www.dropbox.com/s/o8ka87rn4h8n35d/Research-Methods-in-Psychology.pdf?dl=0), [Choose article](https://github.com/idia640/course-materials/blob/master/schedule-presentations-2018.md) | Github practice exercise (from your repository), [Case Study proposal](https://github.com/idia640/course-materials/blob/master/case-study-proposal.md) |
-|  11 Sept | [HCI research methodology (Surveys and ethnography)](https://gitpitch.com/idia640/presentations/master?p=week02)  | Selected  paper |  [Critical review](https://github.com/idia640/course-materials/blob/master/guidelines-critical-review.md) |
-|  18 Sept | [How do we know what we see?  (Sense & perception)](https://gitpitch.com/idia640/presentations/master?p=week04) | Ware Ch. 1-4 or Johnson Ch. 1-5  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
-| 25 Sept | [How do we know about things? (Attention, memory, priming, and learning)](https://gitpitch.com/idia640/presentations/master?p=week05) | Ware Ch. 6-7, Johnson Ch. 7-9,11  | Journal, [Case Study - elevator speech](https://en.wikipedia.org/wiki/Elevator_pitch) |
-| 2 Oct | [How we do think? (Attention and the divided brain](https://gitpitch.com/idia640/presentations/master?p=week06) | Kahneman Ch. 1-9 | Journal |
-| 9 Oct | [How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)](https://gitpitch.com/idia640/presentations/master?p=week07) | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](https://youtu.be/IifXMd26gWE), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0)  | Journal |
-| 16 Oct | [How do we understand? (Communication as joint action)](https://gitpitch.com/idia640/presentations/master?p=week08) | [Clark](https://www.dropbox.com/s/g7a1kdeogz6a9l0/clark-language-use-1.pdf?dl=0), [Conversational UX](https://www.nytimes.com/interactive/2018/08/17/technology/alexa-siri-conversation.html) Optional: Johnson Ch. 14| Journal |
-| 23 Oct |  NO CLASS [How do we make decisions? (Heuristics and biases)](https://gitpitch.com/idia640/presentations/master?p=week09)| Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
-| 30 Oct | [How do we make decisions when we are uncertain? (Rationality & decision-making)](https://gitpitch.com/idia640/presentations/master?p=week09) | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
-| 6 Nov | [How are we influenced through persuasion?](https://gitpitch.com/idia640/presentations/master?p=week10) | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
-| 13 Nov  | [How does culture affect thinking?](https://gitpitch.com/idia640/presentations/master?p=week11) | [Hall & Hall](https://www.dropbox.com/s/t786slow4cnd3zc/Hall%20and%20Hall%201990.pdf?dl=0) | Journal |
-| 20 Nov | Thanksgiving - No Class |  |  |
-| 27 Nov | [How do social networks affect behavior?](https://gitpitch.com/idia640/presentations/master?p=week12) | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal |
-|  4 Dec | Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-case-study.md) |
-|  11 Dec | Conclude Student Presentations (Case Study) |  | [Case Study](https://github.com/idia640/course-materials/blob/master/guidelines-case-study.md) |
+| Date | Topic | Lab | Readings | Assignments Due |
+| --- | --- | --- | --- | --- |
+|  22 Jan | Introduction & getting started | Github, On being an ethical designer  | Video: [Dark Patterns](https://youtu.be/1KVyFio8gw4), https://darkpatterns.org | |
+|  29 Jan  | HCI research methodology (Experimentation) |  Reading and presenting scientific papers | [Mabson et al.](https://www.dropbox.com/s/pneg5f2glxz5yrr/WhatisDE.pdf?dl=0), [Price Ch. 9](https://www.dropbox.com/s/o8ka87rn4h8n35d/Research-Methods-in-Psychology.pdf?dl=0), [Choose article](https://github.com/idia640/course-materials/blob/master/schedule-presentations-Spring2018.md) |  [Case study idea](https://github.com/idia640/course-materials/blob/master/case-study-proposal.md) |
+|  5 Feb | HCI research methodology (Surveys and ethnography) | Your ethnographic study |  Selected  paper |  [Critical review](https://github.com/idia640/course-materials/blob/master/guidelines-critical-review.md) |
+|  12 Feb | How do we know what we see?  (Sense & perception) | Case study template; Who is your user? |  Ware Ch. 1-4 or Johnson Ch. 1-5  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
+| 19 Feb | How do we know about things? (Attention, memory, priming, and learning) | What is an insight? | Ware Ch. 6-7, Johnson Ch. 7-9,11  | Journal |
+| 26 Feb | How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)| Defining your behavioral objective | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](https://youtu.be/IifXMd26gWE), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0) |  Journal, [Case study elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) |
+| 5 Mar | How we do think? (Attention and the divided brain | How do you craft your message? |  Kahneman Ch. 1-9 | Journal |
+| 12 Mar | How do we understand? (Communication as joint action) | Task flows and decision-making | TBD Reading, [Conversational UX](https://www.nytimes.com/interactive/2018/08/17/technology/alexa-siri-conversation.html) Optional: Johnson Ch. 14| Journal |
+| 19 Mar | Spring Break - No Class |  |  |  |
+| 26 Mar |  How do we make decisions? (Heuristics and biases) | Touchpoints | Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
+| 2 Apr | How do we make decisions when we are uncertain? (Rationality & decision-making) | Fogg's persuasion model | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
+| 9 Apr | How are we influenced through persuasion? | Why should we believe your design is persuasive? | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
+| 16 Apr | How does culture affect thinking? | Evaluating the effectiveness of your design | [Hall & Hall](https://www.dropbox.com/s/t786slow4cnd3zc/Hall%20and%20Hall%201990.pdf?dl=0) | Journal |
+| 30 Apr | How do social networks affect behavior? | What makes a good story? Designing an effective presentation | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal, [Templates due](https://github.com/idia640/course-materials/blob/master/case-study-template.md) |
+|  7 May | Poster Session - friends and faculty welcome! | | | [Case Study Presentation](https://github.com/idia640/course-materials/blob/master/guidelines-case-study.md) |
 
 # <a name="texts"></a> Required Texts
 
@@ -79,9 +78,11 @@ Ware, C. (2008) Visual Thinking for Design. Elsevier.
 
 Ariely, D. (2010). Predictably Irrational. Harper Perennial; Revised and Expanded ed. edition.
 
-Akerlof, G., Shiller R.J. (2015). Phishing for phools: The economics of manipulation and deception. Princeton University Press.
+Akerlof, G., Shiller R.J. (2015). Phishing for Phools: The Economics of Manipulation and Deception. Princeton University Press.
 
 Cialdini, R. B. (2003). Influence: The Psychology of Persuasion. Harper-Collins.
+
+Choy, E.K. (1017). Let the Story do the Work. Amacom.
 
 Fogg, BJ. (2002). Persuasive Technology: Using Computers to Change What We Think and Do. Morgan Kaufmann.
 

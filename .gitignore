@@ -7,4 +7,5 @@ profile
 *.ttf
 *.lock
 _site/*
+*.tags
 todo.txt
