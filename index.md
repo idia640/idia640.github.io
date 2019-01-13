@@ -88,6 +88,8 @@ Fogg, BJ. (2002). Persuasive Technology: Using Computers to Change What We Think
 
 Gliner, J. A., Morgan, G. A., & Leech, N. L. (2011). Research Methods in Applied Settings: An Integrated Approach to Design and Analysis. Routledge.
 
+Olson, R. (2015). Houston, we have a narrative: Why science needs story. University of Chicago Press.
+
 Pearson, Bob. (2016). Storytizing. 1845 Publishing.
 
 Price, P.,  Jhangiani, R, & Chiang, I. (2015) Research Methods in Psychology. https://opentextbc.ca/researchmethods/
