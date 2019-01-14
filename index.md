@@ -57,7 +57,7 @@ Students will be able to:
 | 19 Feb | How do we know about things? (Attention, memory, priming, and learning) | What is an insight? | Ware Ch. 6-7, Johnson Ch. 7-9,11  | Journal |
 | 26 Feb | How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)| Defining your behavioral objective | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](https://youtu.be/IifXMd26gWE), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0) |  Journal, [Case study elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) |
 | 5 Mar | How we do think? (Attention and the divided brain | How do you craft your message? |  Kahneman Ch. 1-9 | Journal |
-| 12 Mar | How do we understand? (Communication as joint action) | Task flows and decision-making | Enfield, [Conversational UX](https://www.nytimes.com/interactive/2018/08/17/technology/alexa-siri-conversation.html) Optional: Johnson Ch. 14| Journal |
+| 12 Mar | How do we understand? (Communication as joint action) | Task flows and decision-making | [Enfield](https://www.dropbox.com/s/wccc0ahhd29dh05/how%20we%20talk.pdf?dl=0), [Conversational UX](https://www.nytimes.com/interactive/2018/08/17/technology/alexa-siri-conversation.html) Optional: Johnson Ch. 14| Journal |
 | 19 Mar | Spring Break - No Class |  |  |  |
 | 26 Mar |  How do we make decisions? (Heuristics and biases) | Touchpoints | Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
 | 2 Apr | How do we make decisions when we are uncertain? (Rationality & decision-making) | Fogg's persuasion model | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
