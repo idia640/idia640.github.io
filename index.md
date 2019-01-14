@@ -42,7 +42,7 @@ Students will be able to:
 2. Communicate how theories of cognition and information processing apply to the design of interactive media.
 3. Understand when and how to apply key research methodologies used in the study of Human Computer Interaction (HCI).
 4. Propose and describe methods for testing a hypothesis centered on behavior change in interaction design.
-5. In the form of a case study, create a persuasive design and discuss the science behind it. Present your work in a poster session as you would in a real conference.
+5. In the form of a case study, create a persuasive design and discuss the science behind it. Present your work in a poster session as you would at a real conference.
 
 # <a name="syll"></a> Spring 2019 Syllabus
 
@@ -57,7 +57,7 @@ Students will be able to:
 | 19 Feb | How do we know about things? (Attention, memory, priming, and learning) | What is an insight? | Ware Ch. 6-7, Johnson Ch. 7-9,11  | Journal |
 | 26 Feb | How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)| Defining your behavioral objective | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](https://youtu.be/IifXMd26gWE), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0) |  Journal, [Case study elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) |
 | 5 Mar | How we do think? (Attention and the divided brain | How do you craft your message? |  Kahneman Ch. 1-9 | Journal |
-| 12 Mar | How do we understand? (Communication as joint action) | Task flows and decision-making | TBD Reading, [Conversational UX](https://www.nytimes.com/interactive/2018/08/17/technology/alexa-siri-conversation.html) Optional: Johnson Ch. 14| Journal |
+| 12 Mar | How do we understand? (Communication as joint action) | Task flows and decision-making | Enfield, [Conversational UX](https://www.nytimes.com/interactive/2018/08/17/technology/alexa-siri-conversation.html) Optional: Johnson Ch. 14| Journal |
 | 19 Mar | Spring Break - No Class |  |  |  |
 | 26 Mar |  How do we make decisions? (Heuristics and biases) | Touchpoints | Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
 | 2 Apr | How do we make decisions when we are uncertain? (Rationality & decision-making) | Fogg's persuasion model | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
@@ -84,9 +84,9 @@ Cialdini, R. B. (2003). Influence: The Psychology of Persuasion. Harper-Collins.
 
 Choy, E.K. (1017). Let the Story do the Work. Amacom.
 
-Fogg, BJ. (2002). Persuasive Technology: Using Computers to Change What We Think and Do. Morgan Kaufmann.
+Enfield, N.J. (2017). How we talk: the inner workings of conversation. Basic Books.
 
-Gliner, J. A., Morgan, G. A., & Leech, N. L. (2011). Research Methods in Applied Settings: An Integrated Approach to Design and Analysis. Routledge.
+Fogg, BJ. (2002). Persuasive Technology: Using Computers to Change What We Think and Do. Morgan Kaufmann.
 
 Olson, R. (2015). Houston, we have a narrative: Why science needs story. University of Chicago Press.
 
