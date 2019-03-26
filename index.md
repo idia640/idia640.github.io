@@ -102,4 +102,4 @@ Weinschenk, S. (2011). 100 Things Every Designer Needs to Know about People. Pea
 
 # UB Resources
 
-[Addendum](http://www.ubalt.edu/about-ub/offices-and-services/provost/faculty- affairs/Student_Resource_List--Spr2017_FINAL.docx)
+[Addendum](http://www.ubalt.edu/policies/academic/vii-3.3.pdf)
