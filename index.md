@@ -62,9 +62,9 @@ Students will be able to:
 | 2 Apr (NO CLASS - work at home)|  How do we make decisions? (Heuristics and biases) | Touchpoints | Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
 | 9 Apr | How do we make decisions when we are uncertain? (Rationality & decision-making) | Fogg's persuasion model | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
 | 16 Apr | How are we influenced through persuasion? | Why should we believe your design is persuasive? | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
-| 30 Apr | How does culture affect thinking? | Evaluating the effectiveness of your design | [Hall & Hall](https://www.dropbox.com/s/t786slow4cnd3zc/Hall%20and%20Hall%201990.pdf?dl=0) | Journal |
-| 7 May | How do social networks affect behavior? | What makes a good story? Designing an effective presentation | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal, [Templates due](https://github.com/idia640/course-materials/blob/master/case-study-template.md) |
-|  14 May | Poster Session - friends and faculty welcome! | | | [Case Study Presentation](https://github.com/idia640/course-materials/blob/master/guidelines-case-study.md) |
+| 23 Apr | How does culture affect thinking? | Evaluating the effectiveness of your design | [Hall & Hall](https://www.dropbox.com/s/t786slow4cnd3zc/Hall%20and%20Hall%201990.pdf?dl=0) | Journal |
+| 30 Apr | How do social networks affect behavior? | What makes a good story? Designing an effective presentation | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal, [Templates due](https://github.com/idia640/course-materials/blob/master/case-study-template.md) |
+|  7 May | Poster Session - friends and faculty welcome! | | | [Case Study Presentation](https://github.com/idia640/course-materials/blob/master/guidelines-case-study.md) |
 
 # <a name="texts"></a> Required Texts
 
