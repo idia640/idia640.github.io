@@ -50,21 +50,21 @@ Students will be able to:
 
 | Date | Topic | Lab | Readings | Assignments Due |
 | --- | --- | --- | --- | --- |
-|  29 Jan | Introduction & getting started | Github, On being an ethical designer  | Video: [Dark Patterns](https://youtu.be/1KVyFio8gw4), https://darkpatterns.org | |
-|  5 Feb  | HCI research methodology (Experimentation) |  Reading and presenting scientific papers | [Mabson et al.](https://www.dropbox.com/s/pneg5f2glxz5yrr/WhatisDE.pdf?dl=0), [Price Ch. 9](https://www.dropbox.com/s/o8ka87rn4h8n35d/Research-Methods-in-Psychology.pdf?dl=0), [Choose article](https://github.com/idia640/course-materials/blob/master/schedule-presentations-Spring2019.md) |  [Case study idea](https://github.com/idia640/course-materials/blob/master/case-study-proposal.md) |
-|  12 Feb | HCI research methodology (Surveys and ethnography) | Your ethnographic study |  Selected  paper |  [Critical review](https://github.com/idia640/course-materials/blob/master/guidelines-critical-review.md) |
-|  19 Feb | How do we know what we see?  (Sense & perception) | Case study template; Who is your user? |  Ware Ch. 1-4 or Johnson Ch. 1-5  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
-| 26 Feb | How do we know about things? (Attention, memory, priming, and learning) | What is an insight? | Ware Ch. 6-7, Johnson Ch. 7-9,11  | Journal |
-| 5 Mar | How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)| Defining your behavioral objective | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](https://youtu.be/IifXMd26gWE), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0) |  Journal, [Case study elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) |
-| 12 Mar | How we do think? (Attention and the divided brain | How do you craft your message? |  Kahneman Ch. 1-9 | Journal |
-| 19 Mar | Spring Break - No Class |  |  |  |
-| 26 Mar | How do we understand? (Communication as joint action) | Task flows and decision-making | [Enfield](https://www.dropbox.com/s/wccc0ahhd29dh05/how%20we%20talk.pdf?dl=0), [Conversational UX](https://www.nytimes.com/interactive/2018/08/17/technology/alexa-siri-conversation.html) Optional: Johnson Ch. 14| Journal |
-| 2 Apr (NO CLASS - work at home)|  How do we make decisions? (Heuristics and biases) | Touchpoints | Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
-| 9 Apr | How do we make decisions when we are uncertain? (Rationality & decision-making) | Fogg's persuasion model | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
-| 16 Apr | How are we influenced through persuasion? | Why should we believe your design is persuasive? | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
-| 23 Apr | How does culture affect thinking? | Evaluating the effectiveness of your design | [Hall & Hall](https://www.dropbox.com/s/t786slow4cnd3zc/Hall%20and%20Hall%201990.pdf?dl=0) | Journal |
-| 30 Apr | How do social networks affect behavior? | What makes a good story? Designing an effective presentation | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal, [Templates due](https://github.com/idia640/course-materials/blob/master/case-study-template.md) |
-|  7 May | Poster Session - friends and faculty welcome! | | | [Case Study Presentation](https://github.com/idia640/course-materials/blob/master/guidelines-case-study.md) |
+|  28 Jan | Introduction & getting started | Github, On being an ethical designer  | Video: [Dark Patterns](https://youtu.be/1KVyFio8gw4), https://darkpatterns.org | |
+|  4 Feb  | HCI research methodology (Experimentation) |  Reading and presenting scientific papers | [Mabson et al.](https://www.dropbox.com/s/pneg5f2glxz5yrr/WhatisDE.pdf?dl=0), [Price Ch. 9](https://www.dropbox.com/s/o8ka87rn4h8n35d/Research-Methods-in-Psychology.pdf?dl=0), [Choose article](https://github.com/idia640/course-materials/blob/master/schedule-presentations-Spring2019.md) |  [Case study idea](https://github.com/idia640/course-materials/blob/master/case-study-proposal.md) |
+|  11 Feb | HCI research methodology (Surveys and ethnography) | Your ethnographic study |  Selected  paper |  [Critical review](https://github.com/idia640/course-materials/blob/master/guidelines-critical-review.md) |
+|  18 Feb | How do we know what we see?  (Sense & perception) | Case study template; Who is your user? |  Ware Ch. 1-4 or Johnson Ch. 1-5  | Journal ([rubric](https://github.com/idia640/course-materials/blob/master/weekly-rubric.md)) |
+| 25 Feb | How do we know about things? (Attention, memory, priming, and learning) | What is an insight? | Ware Ch. 6-7, Johnson Ch. 7-9,11  | Journal |
+| 3 Mar | How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)| Defining your behavioral objective | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](https://youtu.be/IifXMd26gWE), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0) |  Journal, [Case study elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) |
+| 10 Mar | How we do think? (Attention and the divided brain | How do you craft your message? |  Kahneman Ch. 1-9 | Journal |
+| 17 Mar | Spring Break - No Class |  |  |  |
+| 24 Mar | How do we understand? (Communication as joint action) | Task flows and decision-making | [Enfield](https://www.dropbox.com/s/wccc0ahhd29dh05/how%20we%20talk.pdf?dl=0), [Conversational UX](https://www.nytimes.com/interactive/2018/08/17/technology/alexa-siri-conversation.html) Optional: Johnson Ch. 14| Journal |
+| 31 Mar |  How do we make decisions? (Heuristics and biases) | Touchpoints | Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
+| 7 Apr | How do we make decisions when we are uncertain? (Rationality & decision-making) | Fogg's persuasion model | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
+| 14 Apr | How are we influenced through persuasion? | Why should we believe your design is persuasive? | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
+| 21 Apr | How does culture affect thinking? | Evaluating the effectiveness of your design | [Hall & Hall](https://www.dropbox.com/s/t786slow4cnd3zc/Hall%20and%20Hall%201990.pdf?dl=0) | Journal |
+| 28 Apr | How do social networks affect behavior? | What makes a good story? Designing an effective presentation | [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf)  | Journal, [Templates due](https://github.com/idia640/course-materials/blob/master/case-study-template.md) |
+|  5 May | Poster Session | | | [Case Study Presentation](https://github.com/idia640/course-materials/blob/master/guidelines-case-study.md) |
 
 # <a name="texts"></a> Required Texts
 
