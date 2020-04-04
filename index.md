@@ -58,12 +58,13 @@ Students will be able to:
 | 3 Mar | CLASS CANCELLED | | | |
 | 10 Mar | How do feelings affect our beliefs? (Emotion, feeling, and neuroaesthics)| Defining your behavioral objective | [Damasio (Ch. 7)](https://www.dropbox.com/s/lqcocb1rzeskzts/descartes-error_antonio-damasio.pdf?dl=0), [Alt. Video](https://youtu.be/IifXMd26gWE), [Nadal & Skov](https://www.dropbox.com/s/ja9btoozc6kxo33/Nadal2015.pdf?dl=0) |  Journal, [Case study elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) |
 | 17 Mar | Spring Break - No Class |  |  |  |
-| 24 Mar | CLASS CANCELED |  |  |  |
-| 31 Mar | How do we understand? (Communication as joint action) | Task flows and decision-making |  [Conversational UX](https://www.nytimes.com/interactive/2018/08/17/technology/alexa-siri-conversation.html) Optional: Johnson Ch. 14| Journal |
-| 7 Apr  |  How do we make decisions? (Heuristics and biases) | Touchpoints | Kahneman Ch. 11-14, Johnson Ch. 12 | Journal |
-| 14 Apr | How do we make decisions when we are uncertain? (Rationality & decision-making) | Fogg's persuasion model | Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509)  | Journal |
+| 24 Mar | CLASS CANCELLED |  |  |  |
+| 31 Mar | How do we think? (Attention and the
+divided brain) | How do you craft your message? | Kahneman 1-9 | Journal |
+| 7 April Mar | How do we understand? (Communication as joint action) | Task flows and decision-making |  [Conversational UX](https://www.nytimes.com/interactive/2018/08/17/technology/alexa-siri-conversation.html) Optional: Johnson Ch. 14 | Journal |
+| 14 Apr  |  How do we make decisions? (Heuristics and biases, uncertainty) | Touchpoints, Fogg's persuasion model | Journal 1: Kahneman Ch. 11-14, Optional: Johnson Ch. 12, Journal 2: Kahneman Ch. 26, 28, 34, [Thaler and Sunstein](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1583509) | 2 Journal entries |
 | 21 Apr | How are we influenced through persuasion? | Why should we believe your design is persuasive? Evaluating the effectiveness of your design | [Oinas-Kukkonen & Harjumaa](https://www.researchgate.net/publication/220962680_A_Systematic_Framework_for_Designing_and_Evaluating_Persuasive_Systems) | Journal |
-| 28 Apr | How does culture affect thinking? How do social networks affect behavior? | What makes a good story? Designing an effective presentation | [Hall & Hall](https://www.dropbox.com/s/t786slow4cnd3zc/Hall%20and%20Hall%201990.pdf?dl=0), [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf) | 2 Journal entries |
+| 28 Apr | How does culture affect thinking? How do social networks affect behavior? | What makes a good story? Designing an effective presentation | Journal 1: [Hall & Hall](https://www.dropbox.com/s/t786slow4cnd3zc/Hall%20and%20Hall%201990.pdf?dl=0), Journal 2:   [Christakis & Fowler](http://connectedthebook.com/pages/toc/chapter1.pdf) | 2 Journal entries |
 |  5 May | Poster Session | | [Case Study Presentation](https://github.com/idia640/course-materials/blob/master/guidelines-case-study.md), [Templates due](https://github.com/idia640/course-materials/blob/master/case-study-template.md) |
 
 # <a name="texts"></a> Required Texts
